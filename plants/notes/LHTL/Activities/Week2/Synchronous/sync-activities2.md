@@ -1,8 +1,8 @@
 # SActivities-II
 
-## Activity-1 : Have a look at this picture :
+## Activity-1 : Have a look at this picture
 ![Black Naped Monarch Bird Feeding her Child](../../../../../assets/images/black-naped-monarch-bird.jpg)
-> Source : [Black Naped Monarch Bird](https://www.ngenespanol.com/wp-content/uploads/2018/08/%C2%BFLos-nidos-son-s%C3%B3lo-para-tener-polluelos.jpg)
+> Source : [Black Naped Monarch Birds](https://www.ngenespanol.com/wp-content/uploads/2018/08/%C2%BFLos-nidos-son-s%C3%B3lo-para-tener-polluelos.jpg)
 
 *Asssumption : Below first two question are answered assuming that the feeding bird is a mother.
 
@@ -20,8 +20,23 @@
 > By my friends,
 > - Debhargya Dev : 
 > 1. What do you see?
+> 
 > Mother bird feeding her child.
+> 
 > 2. What do you understand?
-> Is show her motherhood.
+> 
+> It is showing her motherhood.
+> 
 > 3. What do you wonder?
+> 
 > From where did she get the food from.
+
+## Elements of Inquiry
+1. Question.
+2. Investigate.
+3. Use Evidence.
+4. Evaluate.
+5. Response.
+
+> ## <span style="color:#c5816d">“Curiosity is the fuel for discovery, inquiry and learning”</span>.
+
