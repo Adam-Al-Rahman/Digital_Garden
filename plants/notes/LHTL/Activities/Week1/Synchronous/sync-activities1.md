@@ -1,4 +1,4 @@
-# Sync-Activities
+# SActivities-I
 
 ## Activity-1 : Sharing Life Changing Moments
 With respective to Learn & Unlearn.
