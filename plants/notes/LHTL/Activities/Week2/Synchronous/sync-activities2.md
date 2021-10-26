@@ -2,7 +2,7 @@
 
 ## Activity-1 : Have a look at this picture
 ![Black Naped Monarch Bird Feeding her Child](../../../../../assets/images/black-naped-monarch-bird.jpg)
-> Source : [Black Naped Monarch Birds](https://www.ngenespanol.com/wp-content/uploads/2018/08/%C2%BFLos-nidos-son-s%C3%B3lo-para-tener-polluelos.jpg)
+> Source : <span><a href="https://www.ngenespanol.com/wp-content/uploads/2018/08/%C2%BFLos-nidos-son-s%C3%B3lo-para-tener-polluelos.jpg" target="_blank">Black Naped Monarch Birds</a></span>
 
 *Asssumption : Below first two question are answered assuming that the feeding bird is a mother.
 

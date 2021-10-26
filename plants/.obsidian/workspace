@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Week2/Synchronous/sync-22-10-2021.md",
+            "file": "notes/LHTL/Activities/Week2/Synchronous/sync-activities2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/Activities/Week2/Synchronous/sync-22-10-2021.md",
+                "file": "notes/LHTL/Activities/Week2/Synchronous/sync-activities2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "9f5c8cbb425bcbe8",
   "lastOpenFiles": [
-    "notes/LHTL/Activities/Week2/Synchronous/sync-22-10-2021.md",
     "notes/LHTL/Activities/Week2/Synchronous/sync-activities2.md",
-    "notes/LHTL/Activities/Week1/Synchronous/sync-activities1.md",
     "notes/Welcome.md",
+    "notes/LHTL/Activities/Week2/Synchronous/sync-22-10-2021.md",
+    "notes/LHTL/Activities/Week1/Synchronous/sync-activities1.md",
     "notes/LHTL/Activities/Week1/Synchronous/sync-15-10-2021.md",
     "notes/LHTL/LHTLInfo.md",
     "leader-excel.md",
