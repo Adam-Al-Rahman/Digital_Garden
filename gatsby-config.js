@@ -14,7 +14,7 @@ module.exports = {
     {
       resolve: `gatsby-theme-kb`,
       options: {
-        contentPath: path.resolve(__dirname, 'plants/notes/'),
+        contentPath: path.resolve(__dirname, 'nplants/notes/'),
         rootNote: 'Welcome',
         wikiLinkLabelTemplate: '[[{{ refWord }}]]',
         getPluginMdx(defaultPluginMdx) {
@@ -38,7 +38,7 @@ module.exports = {
               resolve: 'gatsby-remark-obsidian',
               options: {
                   titleToURL: (title) => `/${title}`, // optional
-                  markdownFolder: `${__dirname}/plants/`, // optional
+                  markdownFolder: `${__dirname}/nplants/`, // optional
                   highlightClassName: 'highlight', // optional
               },
             },
@@ -76,7 +76,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/plants/assets/images`,
+        path: `${__dirname}/nplants/assets/images`,
       },
     },
     `gatsby-transformer-sharp`,

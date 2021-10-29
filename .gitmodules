@@ -1,0 +1,3 @@
+[submodule "nplants"]
+	path = nplants
+	url = https://github.com/Adam-Al-Rahman/plants.git
