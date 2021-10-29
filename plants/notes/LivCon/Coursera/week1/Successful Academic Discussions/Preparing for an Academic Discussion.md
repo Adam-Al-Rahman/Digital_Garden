@@ -40,7 +40,7 @@
 	- Make a short list of thing that you wanna say or want to ask.
 	- Make a list of question that you wanna ask.
 
-	> Be open minded, if some one change the point that you make, note it down and search one it.
+	> Be open minded, if some one change the point that you make, note it down and search on it.
 
 > " By failing to prepare, you are preparing to fail. "
 > <span style="color: pink;">&nbsp; Benjamin Franklin.</span>
