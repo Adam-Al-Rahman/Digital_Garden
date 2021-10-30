@@ -1,4 +1,4 @@
-# Quiz
+# Quiz-I
 
 Due date: 18/10/2021, 10:26 Time limit: 10 minutes
 
