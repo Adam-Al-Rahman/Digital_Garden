@@ -2,7 +2,7 @@
 
 ## Activity-1 : What do you see in the picture of `Types of Student Inquiry`.
 
-![Types of Student Inquiry](../../../../../Types-of-Student-Inquiry-Illustration.png)
+![Types of Student Inquiry](../../../../../assets/images/Types-of-Student-Inquiry-Illustration.png)
 
  <span style="color: pink">Source</span> : <a href="https://www.learningpersonalized.com/wp-content/uploads/2016/12/Types-of-Student-Inquiry-Illustration.png" target="_blank">Types of Student Inquiry</a>
  
@@ -42,3 +42,52 @@
 > By Me,
 	> - Student are free to do their own things like exploring the new techniques.
 
+
+## Activity-2 : Watch the video "What is Inquiry-Based Learning?" and give a example.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlwkerwaV2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- Inquiry-Based Learning existed for thousand of years.
+- It is the critical component to the scientific method.
+
+### Four Phases of Inquiry
+> Pedaste, ET. All (2015)
+
+#### Phase-1 : Orientation
+Form of discussion. It where we become aware of key idea.
+
+#### Phase-2 : Conceptualization
+- Student generate  `Question`.
+- Student define a `Hypothesis`.
+
+#### Phase-3 : Investigation
+- Where student :
+	- Explore.
+	- Experiment.
+	- Interpret data.
+
+#### Phase-4 : Conclusion
+Student conclude their work.
+	
+```mermaid
+graph TB
+ort(["ORIENTATION"])-->qtn(["QUESTION"])
+ort-->hyp(["HYPOTHESIS"])
+qtn-->hyp
+qtn-->expr(["EXPLORE"])
+expr-->qtn
+hyp-->exp(["EXPERIMENT"])
+exp-->hyp
+expr-->data(["INTERPRET DATA"])
+exp-->data
+data-->conc(["CONCLUSION"])
+conc-->data
+```
+
+### Examples on any inquiry
+
+**Open | Free Inquiry** : 
+- Research a topic which you chosen it.
+	- Read articles to know the topic and understand it.
+	- Implement and document what you learned.
