@@ -4,7 +4,7 @@
 
 ![Types of Student Inquiry](../../../../../assets/images/Types-of-Student-Inquiry-Illustration.png)
 
- <span style="color: pink">Source</span> : <a href="https://www.learningpersonalized.com/wp-content/uploads/2016/12/Types-of-Student-Inquiry-Illustration.png" target="_blank">Types of Student Inquiry</a>
+ <span style="color: pink">Source</span> : <a href="https://www.learningpersonalized.com/wp-content/uploads/2016/12/Types-of-Student-Inquiry-Illustration.png" target="_blank">Types of Student Inquiry</a><br></br> 
  
  1. Structured Inquiry
  2. Controlled Inquiry
