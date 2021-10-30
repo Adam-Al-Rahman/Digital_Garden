@@ -12,14 +12,14 @@ Duration : 30 contact hours - Full Semester
 Department : School of Life
 Date of Commencement : September 2021
 
-## Recording to the respective session of the week
+## Recording of the respective session to that week
 
 ### Requirement
 As you see below you need :
 - _** UPES Username**_ to login.
 - And it's respective password.
 
-<iframe src="https://learn.upes.ac.in/ultra/courses/_56215_1/outline/collab/launchRecordings" width="450" height="800"></iframe>
+<iframe src="https://learn.upes.ac.in/" width="450" height="800"></iframe>
 
 
 
