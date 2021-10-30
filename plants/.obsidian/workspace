@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "75d0ea1c5410f787",
+        "id": "41dee25ea741e975",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "notes/LHTL/LHTLInfo.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "41dee25ea741e975",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/LHTL/Activities/Session-2/Synchronous/sync-22-10-2021.md",
-            "mode": "preview"
           }
         }
       }
@@ -98,11 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75d0ea1c5410f787",
+  "active": "41dee25ea741e975",
   "lastOpenFiles": [
     "notes/LHTL/LHTLInfo.md",
-    "notes/LHTL/Activities/Session-3/Synchronous/sync-23-10-2021.md",
     "notes/LHTL/Activities/Session-2/Synchronous/sync-22-10-2021.md",
+    "notes/LHTL/Activities/Session-3/Synchronous/sync-23-10-2021.md",
     "notes/LHTL/Activities/Session-2/Synchronous/sync-activities2.md",
     "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
     "notes/LivCon/Coursera/week1/Successful Academic Discussions/Preparing for an Academic Discussion.md",

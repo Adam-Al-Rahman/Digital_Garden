@@ -16,7 +16,7 @@ Date of Commencement : September 2021
 
 ### Requirement
 As you see below you need :
-- _** UPES Username**_ to login
+- _** UPES Username**_ to login.
 - And it's respective password.
 
 <iframe src="https://learn.upes.ac.in/ultra/courses/_56215_1/outline/collab/launchRecordings" width="450" height="800"></iframe>
