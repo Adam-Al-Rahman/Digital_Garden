@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "41dee25ea741e975",
+        "id": "baef5d3b5b19b1a3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
+            "file": "notes/LHTL/Activities/Session-4/Synchronous/sync-29-10-21.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "03f942c3b7892d41",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
-            "mode": "preview"
           }
         }
       }
@@ -63,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
+                "file": "notes/LHTL/Activities/Session-4/Synchronous/sync-29-10-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "41dee25ea741e975",
+  "active": "baef5d3b5b19b1a3",
   "lastOpenFiles": [
-    "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
+    "notes/LHTL/Activities/Session-4/Synchronous/sync-29-10-21.md",
+    "notes/LHTL/Activities/Session-4/Asynchronous/async-29-10-2021.md",
+    "notes/LHTL/Activities/Session-3/Asynchronous/async-23-10-2021.md",
     "notes/LHTL/Activities/Session-3/Synchronous/sync-23-10-2021.md",
-    "notes/LHTL/Activities/Session-2/Synchronous/sync-activities2.md",
-    "notes/LHTL/Activities/Session-2/Synchronous/sync-22-10-2021.md",
-    "notes/LHTL/Activities/Session-2/Asynchronous/async-22-10-2021.md",
-    "notes/LHTL/Activities/Session-1/Asynchronous/async-15-10-2021.md",
+    "notes/LHTL/Activities/Session-4/Synchronous/sync-activities4.md",
+    "notes/LHTL/Activities/Session-4/Asynchronous/Quiz-4.md",
+    "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
     "notes/LHTL/Activities/Session-1/Asynchronous/Quiz1.md",
-    "notes/LHTL/Activities/Session-1/Synchronous/sync-15-10-2021.md",
-    "notes/LHTL/Activities/Session-1/Synchronous/sync-activities1.md",
-    "notes/LHTL/LHTLInfo.md"
+    "notes/LHTL/Activities/Session-3/Asynchronous/Quiz-3.md",
+    "notes/LHTL/Discussion/The social Dilemma.md"
   ]
 }
