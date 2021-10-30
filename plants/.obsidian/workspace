@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/LHTLInfo.md",
+            "file": "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "03f942c3b7892d41",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/LHTLInfo.md",
+                "file": "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +100,15 @@
   },
   "active": "41dee25ea741e975",
   "lastOpenFiles": [
-    "notes/LHTL/LHTLInfo.md",
-    "notes/LHTL/Activities/Session-2/Synchronous/sync-22-10-2021.md",
+    "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
     "notes/LHTL/Activities/Session-3/Synchronous/sync-23-10-2021.md",
     "notes/LHTL/Activities/Session-2/Synchronous/sync-activities2.md",
-    "notes/LHTL/Activities/Session-3/Synchronous/sync-activities3.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Preparing for an Academic Discussion.md",
-    "notes/Welcome.md",
-    "notes/LHTL/Activities/Session-2/Asynchronous/Evaluation of Evidence.md",
-    "assets/images/takeDoubleEntryNote.jpg",
-    "notes/LivCon/Coursera/week1/Course Introduction/Introduction.md"
+    "notes/LHTL/Activities/Session-2/Synchronous/sync-22-10-2021.md",
+    "notes/LHTL/Activities/Session-2/Asynchronous/async-22-10-2021.md",
+    "notes/LHTL/Activities/Session-1/Asynchronous/async-15-10-2021.md",
+    "notes/LHTL/Activities/Session-1/Asynchronous/Quiz1.md",
+    "notes/LHTL/Activities/Session-1/Synchronous/sync-15-10-2021.md",
+    "notes/LHTL/Activities/Session-1/Synchronous/sync-activities1.md",
+    "notes/LHTL/LHTLInfo.md"
   ]
 }

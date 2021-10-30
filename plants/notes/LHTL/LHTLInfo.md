@@ -12,16 +12,6 @@ Duration : 30 contact hours - Full Semester
 Department : School of Life
 Date of Commencement : September 2021
 
-## UPES BlackBoard
-
-### Requirement
-As you see below you need :
-- _** UPES Username**_ : 50\*\*\*\*\*\*\*@stu.upes.ac.in
-- And it's respective password.
-
-
-<embed type="text/html" src="https://learn.upes.ac.in" width="400" height="800"></embed>
-
 
 ## COURSE CONTENT
 
