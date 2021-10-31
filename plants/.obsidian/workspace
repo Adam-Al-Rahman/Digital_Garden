@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "204447a39f95acee",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/LHTL/Activities/Session-4/Asynchronous/async-29-10-2021.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "2807abcbf7445854",
         "type": "leaf",
         "state": {
@@ -98,11 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "204447a39f95acee",
+  "active": "2807abcbf7445854",
   "lastOpenFiles": [
     "notes/LHTL/Activities/Session-4/Asynchronous/async-29-10-2021.md",
-    "notes/LHTL/Activities/Session-3/Asynchronous/async-23-10-2021.md",
     "notes/LHTL/Activities/Session-4/Asynchronous/Quiz-4.md",
+    "notes/LHTL/Activities/Session-3/Asynchronous/async-23-10-2021.md",
     "notes/LHTL/Activities/Session-3/Asynchronous/Quiz-3.md",
     "notes/LHTL/Activities/Session-2/Asynchronous/Quiz2.md",
     "notes/LivCon/Coursera/week1/Course Introduction/What's It Like to be a International Student.md",
