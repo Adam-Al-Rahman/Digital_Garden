@@ -5,4 +5,4 @@ Instructor : Marla Yoshida
 
 ## Speaking Skill for University
 
-<iframe width="450" height="800" src="https://www.coursera.org/learn/speaking-skills-for-university-success"></iframe>
+[Speaking Skill for University - Coursera Link](https://www.coursera.org/learn/speaking-skills-for-university-success)
