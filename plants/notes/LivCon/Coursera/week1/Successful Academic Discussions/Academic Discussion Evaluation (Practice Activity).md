@@ -2,6 +2,14 @@
 
 Instructions: Listen to the academic discussion called “Water Shortage.” Rate the overall conversation on the points listed in the handout. Add your thoughts about what the speakers did well and what needs improvement.
 
+<iframe width="560" height="315" src="https://d3c33hcgiwev3.cloudfront.net/NyUI3rPRS2elCN6z0dtnYA.processed/full/360p/index.mp4?Expires=1635811200&Signature=fsFR1R3fSccZkUP8QAhL6eo5BfdagSui-dR342gv4EEK2Rjk~7fraSq~rXNcwxMoRgNEHBRdlu90y71ljrG7zXr87r1GNVdD7FcYtVv0DehzSWslIvTm9N3XG3BLWwgM3sVb8ldaN4iVG23AKA~PwDRRT0ChABteKE7GhI7ugAc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A" title="Academic Discussion Evaluation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<span style="color:pink">Source</span> : <a href="" target=
+"_blank">Water Shortage</a>
 
 
-<iframe src="../../../../../assets/pdfs/learning.pdf" width="500" height="800"></iframe>
+<video width="320" height="240" controls>
+    <source src="https://d3c33hcgiwev3.cloudfront.net/NyUI3rPRS2elCN6z0dtnYA.processed/full/360p/index.mp4?Expires=1635811200&Signature=fsFR1R3fSccZkUP8QAhL6eo5BfdagSui-dR342gv4EEK2Rjk~7fraSq~rXNcwxMoRgNEHBRdlu90y71ljrG7zXr87r1GNVdD7FcYtVv0DehzSWslIvTm9N3XG3BLWwgM3sVb8ldaN4iVG23AKA~PwDRRT0ChABteKE7GhI7ugAc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A" type="video/mp4">
+</video>
+
+### Speakers did well
+### Area speakers need to improve
