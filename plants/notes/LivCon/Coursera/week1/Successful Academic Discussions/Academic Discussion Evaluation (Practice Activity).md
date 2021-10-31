@@ -7,9 +7,6 @@ Instructions: Listen to the academic discussion called “Water Shortage.” Rat
 "_blank">Water Shortage</a>
 
 
-<video width="320" height="240" controls>
-    <source src="https://d3c33hcgiwev3.cloudfront.net/NyUI3rPRS2elCN6z0dtnYA.processed/full/360p/index.mp4?Expires=1635811200&Signature=fsFR1R3fSccZkUP8QAhL6eo5BfdagSui-dR342gv4EEK2Rjk~7fraSq~rXNcwxMoRgNEHBRdlu90y71ljrG7zXr87r1GNVdD7FcYtVv0DehzSWslIvTm9N3XG3BLWwgM3sVb8ldaN4iVG23AKA~PwDRRT0ChABteKE7GhI7ugAc_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A" type="video/mp4">
-</video>
 
 ### Speakers did well
 ### Area speakers need to improve
