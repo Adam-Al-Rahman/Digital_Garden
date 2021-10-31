@@ -45,3 +45,23 @@ will probably to blunt or sarcastic for most academic settings, unless you are t
 
 then you need to backup your statement with giving evidence.
 
+2. Build on your partner's comment
+	1. Concede the point
+		1. Find something that your partner said before voicing your disagreement.
+		2. You can concede by saying, like
+			1. "I agree that...However..."
+			2. "Though it's true that..."
+			3. "I see your point but i can't agree"
+	2. Acknowledge parther's viewpoint.
+		1. You can say,
+			1. "That's one way of looking at it, but..."
+			2. "I understand what you're saying, but..."
+
+### Impasse
+It the point where no further agreement can be reached. When this happen you have to `agree to disagree` and get on with discussion.
+
+> "We can agree to disagree, but we don't need to be disagreeable."
+> <span style="color: pink;">John Wooden.</span>
+
+
+
