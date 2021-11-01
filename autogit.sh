@@ -11,7 +11,7 @@ git pull
 CHANGES_EXIST="$(git status --porcelain | wc -l)"
 
 if [ "$CHANGES_EXIST" -eq 0]; then
-    exit 0
+    exit -0
 fi
 
 git pull
