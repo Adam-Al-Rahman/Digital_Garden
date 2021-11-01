@@ -1,26 +1,26 @@
 {
   "main": {
-    "id": "38c9cad878b711a3",
+    "id": "7f6a2705bc238163",
     "type": "split",
     "children": [
       {
-        "id": "3208b3e5f5af3440",
+        "id": "402c0f323d9d46b4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
+            "file": "notes/PPL_Lab/Experiment-1.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "67e9d19c12f313fc",
+        "id": "4a9237288f5e5840",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
+            "file": "notes/PPL_Lab/Experiment-1.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
+                "file": "notes/PPL_Lab/Experiment-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3208b3e5f5af3440",
+  "active": "402c0f323d9d46b4",
   "lastOpenFiles": [
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
-    "notes/Welcome.md",
-    "notes/LHTL/Activities/Session-4/Asynchronous/async-29-10-2021.md",
-    "notes/LHTL/Activities/Session-4/Asynchronous/Quiz-4.md",
-    "assets/pdfs/learning.pdf",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Agree or Disagree.md",
-    "notes/LivCon/Coursera/week1/Course Introduction/Introduction to Speaking Skill for University Success.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Getting your conversation started.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Preparing for an Academic Discussion.md"
+    "notes/PPL_Lab/Experiment-1.md",
+    "notes/PPL_Lab/Experiment-2.md",
+    "notes/PPL_Lab/Contents.md",
+    "notes/PPL_Lab/Student.md",
+    "notes/PPL_Lab/lab_.md",
+    "notes/PPL_Lab/Introduction_to_Lab.md",
+    "assets/images/ppl_lab/ls_command.png",
+    "notes/Ppl_Lab.md",
+    "notes/LHTL/Discussion/The social Dilemma.md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md"
   ]
 }
