@@ -42,6 +42,7 @@ Step-4 :
 
 	Divide number_1 by number_2 and assign the result to Division
 		- Division <-- number_1 / number_2
+		
 Step-5 : Display Sum, Difference, Multiplication and Division
 Step-6 : Stop
 ```
@@ -140,6 +141,10 @@ Difference of two interger : -1
 Multiplication of two interger : 12
 Division of two interger : 0
 ```
+
+**<u>Terminal view</u>**
+![Terminal View](../../../assets/images/ppl_lab/Experiment_2-1.png
+)
 
 ---
 

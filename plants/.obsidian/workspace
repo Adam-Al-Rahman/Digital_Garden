@@ -4,21 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "ebfb7703b36882fc",
+        "id": "8f8234eb9bc44ae4",
         "type": "leaf",
-        "dimension": 54.26229508196721,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f30fbbdff926683e",
-        "type": "leaf",
-        "dimension": 45.73770491803279,
         "state": {
           "type": "markdown",
           "state": {
@@ -82,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
+                "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ebfb7703b36882fc",
+  "active": "8f8234eb9bc44ae4",
   "lastOpenFiles": [
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
     "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
     "notes/PPL_Lab/Experiments/Experiment-1.md",
     "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
     "notes/LivCon/LivConInfo.md",
