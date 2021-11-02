@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "be9bba6ffaac769b",
+        "id": "32da412d0e5a8ab8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Introduction/Contents.md",
+            "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "7e1e552706ea2966",
+        "id": "a7a3e6228d478f39",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Introduction/Contents.md",
+            "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL_Lab/Introduction/Contents.md",
+                "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "be9bba6ffaac769b",
+  "active": "32da412d0e5a8ab8",
   "lastOpenFiles": [
-    "notes/PPL_Lab/Introduction/Contents.md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
     "notes/PPL_Lab/Experiments/Experiment-1.md",
+    "notes/LivCon/LivConInfo.md",
     "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/PPL_Lab/Introduction/Contents.md",
     "notes/PPL_Lab/Introduction/Student.md",
     "notes/PPL_Lab/lab_.md",
     "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
     "assets/images/ppl_lab/ls_command.png",
-    "notes/Ppl_Lab.md",
-    "notes/LHTL/Discussion/The social Dilemma.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md"
+    "notes/Ppl_Lab.md"
   ]
 }

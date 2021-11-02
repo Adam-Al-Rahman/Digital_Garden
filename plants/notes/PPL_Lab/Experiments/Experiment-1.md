@@ -28,25 +28,25 @@
 
 - For `ls` command
 
-![ls command](ls_command.png)
+![ls command](../../../assets/images/ppl_lab/ls_command.png)
 
 ---
 
 - For `mkdir` command
 
-![mkdir command](mkdir_command.png)
+![mkdir command](../../../assets/images/ppl_lab/mkdir_command.png)
 
 ---
 
 - For  `pwd` command
 
-![cd command](pwd_command.png)
+![cd command](../../../assets/images/ppl_lab/pwd_command.png)
 
 ---
 
 - For `cd` command
 
-![cd command](cd_command.png)
+![cd command](../../../assets/images/ppl_lab/cd_command.png)
 
 ---
 
@@ -54,7 +54,7 @@
 
 By default, **dir** command lists the files and folders in columns, sorted vertically and special characters are represented by backslash escape sequences. But unlike ls, when the output is on terminal, it does not produce colored output as **ls** does.
 
-![cd command](dir_command.png)
+![cd command](../../../assets/images/ppl_lab/dir_command.png)
 
 ---
 
