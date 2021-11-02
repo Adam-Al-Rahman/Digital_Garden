@@ -1,14 +1,14 @@
 ## <u>Experiment-1</u> : Linux Commands and C programming Environment
 
-### <u>Objective</u>: To familiarize Linux Commands and demonstrate a clear understanding of the C-programming environment.
+#### <u>Objective</u>: To familiarize Linux Commands and demonstrate a clear understanding of the C-programming environment.
 
-### <u>Activity</u> : 1. Study of Linux Commands
+#### <u>Activity</u> : 1. Study of Linux Commands
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;"> 1.a] Working with directories : `mkdir`, `rmdir`, `dir`, `pwd`, `cd`, `ls`.</h4>
 
 **<u>Aim</u>** : Understand the following linux command through implementing it.
 
-**<u>Theory</u>**:
+**<u>Theory</u>**
 - `mkdir` : Create an empty directory in the present directory.
 	- Syntax : `mkdir Dir_Name`
 - `rmdir` : Remove the named directory.

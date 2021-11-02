@@ -4,23 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "32da412d0e5a8ab8",
+        "id": "9429fc97ddbbe459",
         "type": "leaf",
+        "dimension": 48.36065573770492,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
+            "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "a7a3e6228d478f39",
+        "id": "c7348973d39629df",
         "type": "leaf",
+        "dimension": 51.63934426229508,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
+            "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
             "mode": "preview"
           }
         }
@@ -80,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
+                "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +100,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32da412d0e5a8ab8",
+  "active": "9429fc97ddbbe459",
   "lastOpenFiles": [
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
-    "notes/PPL_Lab/Experiments/Experiment-1.md",
-    "notes/LivCon/LivConInfo.md",
     "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/PPL_Lab/Experiments/Experiment-1.md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
+    "notes/LivCon/LivConInfo.md",
     "notes/PPL_Lab/Introduction/Contents.md",
     "notes/PPL_Lab/Introduction/Student.md",
     "notes/PPL_Lab/lab_.md",
