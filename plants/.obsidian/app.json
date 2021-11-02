@@ -12,5 +12,8 @@
     "WhatsApp",
     "Yoshida",
     "Coursera"
-  ]
+  ],
+  "showLineNumber": true,
+  "foldIndent": true,
+  "foldHeading": true
 }

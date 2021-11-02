@@ -3,5 +3,4 @@
 
 |Experiment|Name of Program|
 |:---:|:---:|
-|[1](./Experiment-1)|[Linux Commands and C programming Environment](./Experiment-1):w
-|
+|[[Experiment-1]]|[Linux Commands and C programming Environment](./Experiment-1)<br />
