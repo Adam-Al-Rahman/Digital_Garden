@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Contents.md",
+            "file": "notes/PPL_Lab/Introduction/Contents.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Contents.md",
+            "file": "notes/PPL_Lab/Introduction/Contents.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL_Lab/Contents.md",
+                "file": "notes/PPL_Lab/Introduction/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,12 +100,12 @@
   },
   "active": "be9bba6ffaac769b",
   "lastOpenFiles": [
-    "notes/PPL_Lab/Contents.md",
-    "notes/PPL_Lab/Experiment-1.md",
-    "notes/PPL_Lab/Experiment-2.md",
-    "notes/PPL_Lab/Student.md",
+    "notes/PPL_Lab/Introduction/Contents.md",
+    "notes/PPL_Lab/Experiments/Experiment-1.md",
+    "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/PPL_Lab/Introduction/Student.md",
     "notes/PPL_Lab/lab_.md",
-    "notes/PPL_Lab/Introduction_to_Lab.md",
+    "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
     "assets/images/ppl_lab/ls_command.png",
     "notes/Ppl_Lab.md",
     "notes/LHTL/Discussion/The social Dilemma.md",
