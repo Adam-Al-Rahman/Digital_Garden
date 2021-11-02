@@ -1,9 +1,9 @@
 ## <u>Experiment-2</u> : Basics of Problem Solving and Program Control Flows
 
 
-#### <u>Objective</u> : To demonstrate use of algorithm and flowchart to design solutions for problems with appropriate selection of program control flow.
+### <u>Objective</u> : To demonstrate use of algorithm and flowchart to design solutions for problems with appropriate selection of program control flow.
 
-#### <u>Activity</u> : Identify the suitable program control flow to solve the given problem. Write algorithm, draw flow chart, prepare test cases and test the design for completeness.
+### <u>Activity</u> : Identify the suitable program control flow to solve the given problem. Write algorithm, draw flow chart, prepare test cases and test the design for completeness.
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">1. Given 2 numbers. Calculate sum, difference, multiplication and division.</h4>
 
@@ -25,6 +25,28 @@ For division of two numbers.
 
 **<u>Algorithm</u>**
 
+```algo
+Step-1 : Start
+Step-2 : Delcare variable number_1, nubmer_2, Sum, Difference, Multiplication and Division
+Step-3 : Read value number_1 and number_2
+Step-4 :
+
+	Add number_1, number_2 and assign the result to Sum
+		- Sum <-- number_1 + number_2
+
+	Subract number_2 from number_1 and assign the result to Difference
+		- Difference <-- number_1 - number_2
+
+	Multiply number_1 with number_2 and assign the result to Multiplication
+		- Multiplication <-- number_1 * number_2
+
+	Divide number_1 by number_2 and assign the result to Division
+		- Division <-- number_1 / number_2
+Step-5 : Display Sum, Difference, Multiplication and Division
+Step-5 : Stop
+```
+
+
 **<u>Flowchart</u>**
 
 Defining Variables
@@ -39,7 +61,7 @@ Defining Variables
 ```mermaid
 graph TB
 start(["Start"])-->cawl["Clear All Working Location(CAWL)"]
-cawl-->dec[/"Declare number_1, number_2, Sum, Difference, Multiplication, Division"/]
+cawl-->dec["Declare number_1, number_2, Sum, Difference, Multiplication, Division"]
 dec-->in1[/"Read number_1, number_2"/]
 in1-->proc["Sum <- number_1 + number_2 <br /> Difference <- number_1 - number_2 <br/> Multiplication <- number_1 * number_2 <br /> Division <- number_1 / number_2"]
 proc-->out[/"Print Sum, Difference, Multiplication, Division"/]
