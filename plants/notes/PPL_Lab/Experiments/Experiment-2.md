@@ -24,7 +24,28 @@ For division of two numbers.
 - Division : number_1 / number_2
 
 **<u>Algorithm</u>**
+
 **<u>Flowchart</u>**
+
+Defining Variables
+
+- number_1 : first numbers.
+- number_2 : second numbers.
+- Sum : Summation of two numbers.
+- Difference : Difference of two numbers.
+- Multiplication : Multiplication of two numbers.
+- Division : Division of two numbers.
+
+```mermaid
+graph TB
+start(["Start"])-->cawl["Clear All Working Location(CAWL)"]
+cawl-->dec[/"Declare number_1, number_2, Sum, Difference, Multiplication, Division"/]
+dec-->in1[/"Read number_1, number_2"/]
+in1-->proc["Sum <- number_1 + number_2 <br /> Difference <- number_1 - number_2 <br/> Multiplication <- number_1 * number_2 <br /> Division <- number_1 / number_2"]
+proc-->out[/"Print Sum, Difference, Multiplication, Division"/]
+out-->stop(["Stop"])
+```
+
 **<u>Program</u>**
 
 ```c
@@ -72,8 +93,11 @@ int main(){
 **<u>Compilation</u>**
 
 Distribution : Debian Linux
+
 OS (Operating System) : Ubuntu \[WSL2\]
+
 File Name : `Experiment-2.1.c`
+
 Compiled File's Folder :  `./Comp_Exec`
 
 ```sh
@@ -95,7 +119,7 @@ Multiplication of two interger : 12
 Division of two interger : 0
 ```
 
-
+---
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">2. Find if the given number is even or not.</h4>
 
