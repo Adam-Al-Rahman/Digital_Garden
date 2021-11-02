@@ -43,7 +43,7 @@ Step-4 :
 	Divide number_1 by number_2 and assign the result to Division
 		- Division <-- number_1 / number_2
 Step-5 : Display Sum, Difference, Multiplication and Division
-Step-5 : Stop
+Step-6 : Stop
 ```
 
 
