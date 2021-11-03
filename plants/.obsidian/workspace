@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8f8234eb9bc44ae4",
+        "id": "2946b6b6ee6c1eb0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -87,7 +86,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f8234eb9bc44ae4",
+  "active": "2946b6b6ee6c1eb0",
   "lastOpenFiles": [
     "notes/PPL_Lab/Experiments/Experiment-2.md",
     "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
