@@ -144,7 +144,7 @@ Division of two interger : 0
 
 **<u>Terminal view</u>**
 
-![Terminal View](../../../assets/images/ppl_lab/Experiment_2-1.png
+![Terminal Commands View](../../../assets/images/ppl_lab/Experiment_2-1.png
 )
 
 ---
