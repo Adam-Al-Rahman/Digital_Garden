@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "7f6a2705bc238163",
+    "id": "83e719d2e40b905a",
     "type": "split",
     "children": [
       {
-        "id": "2946b6b6ee6c1eb0",
+        "id": "3b0b412746bb8ece",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
-            "mode": "preview"
+            "file": "notes/PPL_Lab/Introduction/Contents.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
+                "file": "notes/PPL_Lab/Introduction/Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2946b6b6ee6c1eb0",
+  "active": "3b0b412746bb8ece",
   "lastOpenFiles": [
+    "notes/PPL_Lab/Introduction/Contents.md",
+    "notes/PPL_Lab/Experiments/Experiment-1.md",
+    "assets/images/ppl_lab/dir_command.png",
+    "assets/images/ppl_lab/Experiment_2-1.png",
     "notes/PPL_Lab/Experiments/Experiment-2.md",
     "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
-    "notes/PPL_Lab/Experiments/Experiment-1.md",
     "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
     "notes/LivCon/LivConInfo.md",
-    "notes/PPL_Lab/Introduction/Contents.md",
     "notes/PPL_Lab/Introduction/Student.md",
-    "notes/PPL_Lab/lab_.md",
-    "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
-    "assets/images/ppl_lab/ls_command.png"
+    "notes/PPL_Lab/lab_.md"
   ]
 }

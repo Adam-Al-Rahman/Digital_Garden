@@ -3,4 +3,5 @@
 
 |Experiment|Name of Program|
 |:---:|:---:|
-|[[Experiment-1]]|Linux Commands and C programming Environment.
+|[[Experiment-1]]|[Linux Commands and C programming Environment](../Experiments/Experiment-1).|
+|[[Experiment-2]]|Basics of Problem Solving and Program Control Flows|
