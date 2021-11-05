@@ -1,4 +1,5 @@
-<h5 align="right">Date : November 5, 2021 </h5>
+<h5 align="right">November 5, 2021 </h5>
+<h5 align="right">SAP ID : <code>500097175</code> </h5>
 
 ## <u>Experiment-1</u> : Linux Commands and C programming Environment
 
@@ -6,7 +7,7 @@
 
 ### <u>Activity</u> : 1. Study of Linux Commands
 
-#### <u>SAP ID</u>: `500097175`
+#### 
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;"> 1.a] Working with directories : `mkdir`, `rmdir`, `dir`, `pwd`, `cd`, `ls`.</h4>
 
