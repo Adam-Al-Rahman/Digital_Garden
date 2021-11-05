@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5e2b5ffc5c4501c7",
+        "id": "f7e8c545f0957554",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Experiments/Experiment-1.md",
-            "mode": "source"
+            "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL_Lab/Experiments/Experiment-1.md",
+                "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e2b5ffc5c4501c7",
+  "active": "f7e8c545f0957554",
   "lastOpenFiles": [
+    "notes/PPL_Lab/Experiments/Experiment-2.md",
     "notes/PPL_Lab/Experiments/Experiment-1.md",
+    "notes/PPL/Introduction-to-ppl.md",
+    "assets/images/ppl_lab/pdf/updated PPL_Lab_Plan.pdf",
+    "assets/pdfs/learning.pdf",
     "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
     "notes/PPL_Lab/Introduction/Index.md",
-    "notes/PPL_Lab/Experiments/Experiment-2.md",
-    "notes/PPL_Lab/Introduction/Student.md",
-    "notes/PPL_Lab/Introduction/Contents.md",
-    "assets/images/ppl_lab/dir_command.png",
-    "assets/images/ppl_lab/Experiment_2-1.png",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md"
+    "templates/Experiment.md",
+    "notes/LHTL/Activities/Session-1/Asynchronous/async-15-10-2021.md",
+    "Exp.md"
   ]
 }

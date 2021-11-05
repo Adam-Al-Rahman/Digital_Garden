@@ -6,7 +6,6 @@
 
 ### <u>Activity</u> : 1. Study of Linux Commands
 
-#### 
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;"> 1.a] Working with directories : `mkdir`, `rmdir`, `dir`, `pwd`, `cd`, `ls`.</h4>
 
@@ -112,7 +111,7 @@ With respective `Last-Line Mode`
 - `:q` : To close the file in vi-editor.
 - `:w` : To save the file.
 - `:wq` : To save and close the file.
-- `:`
+- `:!` : To use command line commands.
 
 3. **_Insert Mode_**
 

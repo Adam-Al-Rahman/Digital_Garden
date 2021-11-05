@@ -1,11 +1,12 @@
-## <u>Experiment-2</u> : Basics of Problem Solving and Program Control Flows
+<h5 align="right">November 5, 2021 <br/>SAP ID : <code style="-webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;"><a href="https://atiq-ur-rehaman.netlify.app/#about" >500097175</a></code> </h5>
 
+## <u>Experiment-2</u> : Basics of Problem Solving and Program Control Flows
 
 ### <u>Objective</u> : To demonstrate use of algorithm and flowchart to design solutions for problems with appropriate selection of program control flow.
 
 ### <u>Activity</u> : Identify the suitable program control flow to solve the given problem. Write algorithm, draw flow chart, prepare test cases and test the design for completeness.
 
-<h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">1. Given 2 numbers. Calculate sum, difference, multiplication and division.</h4>
+<h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">1. Given two numbers. Calculate sum, difference, multiplication and division.</h4>
 
 **<u>Aim</u>** : Find the sum, difference, multiplication & division of two numbers.
 
@@ -52,6 +53,7 @@ Step-6 : Stop
 
 Defining Variables
 
+- `CAWL` : Clear All Working Location
 - number_1 : first numbers.
 - number_2 : second numbers.
 - Sum : Summation of two numbers.
@@ -61,13 +63,14 @@ Defining Variables
 
 ```mermaid
 graph TB
-start(["Start"])-->cawl["Clear All Working Location(CAWL)"]
+start(["Start"])-->cawl["CAWL"]
 cawl-->dec["Declare number_1, number_2, Sum, Difference, Multiplication, Division"]
 dec-->in1[/"Read number_1, number_2"/]
 in1-->proc["Sum <- number_1 + number_2 <br /> Difference <- number_1 - number_2 <br/> Multiplication <- number_1 * number_2 <br /> Division <- number_1 / number_2"]
 proc-->out[/"Print Sum, Difference, Multiplication, Division"/]
 out-->stop(["Stop"])
 ```
+
 
 **<u>Program</u>**
 
@@ -119,7 +122,7 @@ Distribution : Debian Linux
 
 OS (Operating System) : Ubuntu \[WSL2\]
 
-File Name : `Experiment-2.1.c`
+File Name : `Experiment_2-1.c`
 
 Compiled File's Folder :  `./Comp_Exec`
 
