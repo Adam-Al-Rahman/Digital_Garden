@@ -2,4 +2,3 @@
 
 <p align="center">Principle of Programming Language Lab</p>
 
-![[ls_command.png]]
