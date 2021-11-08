@@ -103,6 +103,9 @@ With respective to Cursor
 - `A` : To move cursor end of the current line and the cursor will be in insert mode.
 - `gg` : To move cursor at first line of the file.
 - `G` : To move cursor at last line of the file.
+- `y` : To yank (copy) highlighted text
+- `yl` : To yank current letter on which the cursor is present.
+- `yy` : To yank whole line.
 
 
 With respective `Last-Line Mode`

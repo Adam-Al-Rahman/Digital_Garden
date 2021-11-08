@@ -1,6 +1,7 @@
 # SActivities-III
 
-## Activity-1 : Video on ==Fake News==.
+## Activity-1 : Video on <mark>Fake News</mark>.
+<!--SR:!2021-11-11,4,270-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AkwWcHekMdo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

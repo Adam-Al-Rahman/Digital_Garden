@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e8c545f0957554",
+        "id": "c35a5dd935a9b3f9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
+            "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f31fafb124266727",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
             "mode": "preview"
           }
         }
@@ -39,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Fake new",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
+    "width": 167.50078010559082,
     "collapsed": true
   },
   "right": {
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
+                "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,6 +90,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "bc7741b50cce5cd7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -87,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7e8c545f0957554",
+  "active": "c35a5dd935a9b3f9",
   "lastOpenFiles": [
+    "notes/PPL_Lab/Experiments/Experiment-3.md",
     "notes/PPL_Lab/Experiments/Experiment-2.md",
-    "notes/PPL_Lab/Experiments/Experiment-1.md",
-    "notes/PPL/Introduction-to-ppl.md",
-    "assets/images/ppl_lab/pdf/updated PPL_Lab_Plan.pdf",
-    "assets/pdfs/learning.pdf",
-    "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
-    "notes/PPL_Lab/Introduction/Index.md",
-    "templates/Experiment.md",
-    "notes/LHTL/Activities/Session-1/Asynchronous/async-15-10-2021.md",
-    "Exp.md"
+    "notes/Mathematics/Matrices.md",
+    "notes/Mathematics/~Matrix.md",
+    "notes/Mathematics/Differential_&_Integral_Calculus.md",
+    "notes/LHTL/Activities/Session-1/Synchronous/sync-15-10-2021.md",
+    "Pasted image 20211107184700.png",
+    "notes/PPL/C-Lang/C-Basic.md",
+    "Untitled mindmap.md",
+    "notes/PPL/Intro-to-ppl.md"
   ]
 }
