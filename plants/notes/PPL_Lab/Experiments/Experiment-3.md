@@ -30,7 +30,7 @@ Step-4 :
 	Multiply rhombus_diag_1st with rhombus_diag_2nd and divide the whole thing by 2 and assign the result to rhombus_area
 	- rhombus_area <-- (rhombus_diag_1st * rhombus_diag_2nd) / 2
 	
-	Multiply sphere_radius, sphere_radius, $4 \pi r^{2}$ and assign the result to sphere_area
+	Multiply sphere_radius, sphere_radius, $4 \pi$ and assign the result to sphere_area
 	- sphere_area <-- sphere_radius * sphere_radius * $4\pi$
 	
 	Multiply ellipse_major_radius, ellipse_min_radius, $\pi$ and assign the result to ellipse_area

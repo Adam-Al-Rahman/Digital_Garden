@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
+            "file": "notes/Mathematics/Matrices.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "f31fafb124266727",
+        "id": "ca0705a6d8290d7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
+            "file": "notes/Mathematics/Matrices.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
+                "file": "notes/Mathematics/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,13 +106,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c35a5dd935a9b3f9",
+  "active": "ca0705a6d8290d7d",
   "lastOpenFiles": [
-    "notes/PPL_Lab/Experiments/Experiment-3.md",
-    "notes/PPL_Lab/Experiments/Experiment-2.md",
     "notes/Mathematics/Matrices.md",
-    "notes/Mathematics/~Matrix.md",
+    "notes/PPL_Lab/Experiments/Experiment-3.md",
     "notes/Mathematics/Differential_&_Integral_Calculus.md",
+    "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/Mathematics/~Matrix.md",
     "notes/LHTL/Activities/Session-1/Synchronous/sync-15-10-2021.md",
     "Pasted image 20211107184700.png",
     "notes/PPL/C-Lang/C-Basic.md",
