@@ -9,7 +9,7 @@
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">1. Obtain the required inputs and compute the areas of the following shapes: (i) Parallelogram (with base and height), (ii) Trapezoid (with height, long base, short base), (iii) Rhombus (with height and side), (iv) Sphere (with radius), (v) Ellipse (with major and minor radius)</h4>
 
 
-**<u>Aim</u>** : 
+**<u>Aim</u>** : Find the area of `Parallelogram`, `Trapezoid` , `Rhombus`, `Sphere` and `Ellipse`.
 
 **<u>Theory</u>**
 

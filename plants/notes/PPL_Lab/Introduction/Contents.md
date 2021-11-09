@@ -5,3 +5,4 @@
 |:---:|:---:|
 |[[Experiment-1]]|Linux Commands and C programming Environment.|
 |[[Experiment-2]]|Basics of Problem Solving and Program Control Flows|
+|[[Experiment-3]]| Programming Sequential Logic|
