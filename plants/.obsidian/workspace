@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ca0705a6d8290d7d",
+        "id": "85042ccf2c8ab2e0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Introduction/Index.md",
-            "mode": "preview"
+            "file": "notes/Mathematics/Matrices.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "5fab07692cedcd98",
+        "id": "79285e8441b24ae2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
+            "file": "notes/Mathematics/Matrices.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
+                "file": "notes/Mathematics/Matrices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5fab07692cedcd98",
+  "active": "85042ccf2c8ab2e0",
   "lastOpenFiles": [
+    "notes/Mathematics/Matrices.md",
     "notes/PPL_Lab/Experiments/Experiment-3.md",
     "notes/PPL_Lab/Introduction/Index.md",
     "notes/PPL_Lab/Experiments/Experiment-2.md",
@@ -116,7 +117,6 @@
     "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
     "notes/PPL_Lab/Introduction/Student.md",
     "notes/PPL/Intro-to-ppl.md",
-    "notes/Mathematics/Matrices.md",
     "notes/Mathematics/Differential_&_Integral_Calculus.md"
   ]
 }

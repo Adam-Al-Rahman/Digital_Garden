@@ -120,6 +120,19 @@ The system will have non-trivial solution if and only if the rank of the coeffic
 
 ## Eigen Values & Eigen Vector
 
+### Eigen Values
+
+Let $A = [a_{ij}]_{m\times n}$ be a square matrix of order n.
+Consider the homogeneous system of equation.
+$AX = \lambda X$ or $(A-\lambda I)X=0$ ....(1)
+
+Where `I` is an identity matrix and `n` order and $\lambda$ is a scalar.
+
+- Homogeneous system of equation (1) always has a `Trivial Solution`.
+- Here our concern is to find the values of $\lambda$, for which `non-trivial (non-zero) solutions` of the homogeneous system exist.
+> - $|A-\lambda I|$ is a `Characteristic polynomial`.
+> - <code>$|A-\lambda I| = 0$</code> is a `Characteristic Equation`.
+
 ## Caylay-Hamilton theorem & application to find power of matrix.
 
 ## Facts to Remember
