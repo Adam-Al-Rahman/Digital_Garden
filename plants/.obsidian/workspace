@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "85042ccf2c8ab2e0",
+        "id": "26b32455c554e2fc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Mathematics/Matrices.md",
+            "file": "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "79285e8441b24ae2",
+        "id": "c44d906efb72155e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Mathematics/Matrices.md",
+            "file": "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fake new",
+                "query": "mermaid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167.50078010559082,
+    "width": 283.5007801055908,
     "collapsed": true
   },
   "right": {
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Mathematics/Matrices.md",
+                "file": "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "85042ccf2c8ab2e0",
+  "active": "26b32455c554e2fc",
   "lastOpenFiles": [
-    "notes/Mathematics/Matrices.md",
-    "notes/PPL_Lab/Experiments/Experiment-3.md",
-    "notes/PPL_Lab/Introduction/Index.md",
-    "notes/PPL_Lab/Experiments/Experiment-2.md",
-    "notes/PPL_Lab/Experiments/Experiment-1.md",
-    "notes/PPL_Lab/Introduction/Contents.md",
-    "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
-    "notes/PPL_Lab/Introduction/Student.md",
-    "notes/PPL/Intro-to-ppl.md",
-    "notes/Mathematics/Differential_&_Integral_Calculus.md"
+    "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
+    "notes/LivCon/Activities/Session-3/Synchronous/lc-sync-26-10-2021.md",
+    "notes/LivCon/Activities/Session-2/Synchronous/lc-sync-19-10-2021.md",
+    "notes/LivCon/Activities/Session-2/Asynchronous/lc-async-19-10-21.md",
+    "notes/LivCon/Activities/Session-1/Synchronous/lc-sync-12-10-2021.md",
+    "notes/LivCon/Activities/Session-1/Asynchronous/lc-async-12-10-2021.md",
+    "notes/LHTL/Activities/Session-1/Synchronous/sync-activities1.md",
+    "notes/LHTL/Activities/Session-1/Asynchronous/async-15-10-2021.md",
+    "notes/LivCon/MFF/Beautiful_Mind.md",
+    "notes/LivCon/MFF/Dead_Poets_Society.md"
   ]
 }

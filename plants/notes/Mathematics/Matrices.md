@@ -120,7 +120,7 @@ The system will have non-trivial solution if and only if the rank of the coeffic
 
 ## Eigen Values & Eigen Vector
 
-### Eigen Values
+### Eigen Values | Latent root | characteristic root
 
 Let $A = [a_{ij}]_{m\times n}$ be a square matrix of order n.
 Consider the homogeneous system of equation.
@@ -132,6 +132,51 @@ Where `I` is an identity matrix and `n` order and $\lambda$ is a scalar.
 - Here our concern is to find the values of $\lambda$, for which `non-trivial (non-zero) solutions` of the homogeneous system exist.
 > - $|A-\lambda I|$ is a `Characteristic polynomial`.
 > - <code>$|A-\lambda I| = 0$</code> is a `Characteristic Equation`.
+
+> If all  Eigen values of a matrix are non zero then the rank of matrix is equal to order of matrix.
+
+- <code>$n - \rho$</code> give the value of the number of Linearly Independent(LI) solutions / Linearly Independent vectors of above system (1).
+- If two Eigen Values are same and there is only one LI solution then there will be same Eigen Vector for both the Eigen values.
+- If two Eigen Values are same but there is two linearly independent solution then there will be different Eigen Vector for each Eigen values.
+- Set consisting Eigen Vectors corresponding to different Eigen values is LI.
+- The set of Eigen values of the matrix A is called `Spectrum` of the matrix A and the largest Eigen values is called the `Spectral Radius` of A.
+
+### Algebraic & Geometric Multiplicity
+
+- `Algebraic Multiplicity (AM)` : Number of times a particular Eigen value repeats.
+- `Geometric Multiplicity (GM)` : Number of distinct LI Eigen vectors for a particular Eigen value.
+
+> <code>$AM \geq GM$</code>
+
+
+### Properties of Eigen Values & Eigen Vectors
+
+1. Eigen values of a `Hermitian Matrix` are all real.
+2. Eigen Values of `Skew Hermitian Matrix` are either 0 (zero) or purely imaginary.
+3. Eigen values of a `Orthogonal Matrix` are of unit modulus.
+4. Eigen values of an `Idempotent Matrix` are either zero or one.
+5. Eigen values of a Unitary matrix are of unit modulus.
+6. Eigen values of an `Involutory Matrix` are either +1 or -1.
+7. If A and B are two matrices of same order then A and B have same Eigen values where $B = P^{-1}AP$. Or similar matrices have same Eigen Values.
+8. If $\lambda$ is an Eigen values of A then. (Provided $|A| \neq 0$)
+	1. $\lambda^{-1}$ is an Eigen value of $A^{-1}$.
+	2. If $\lambda_{1}$, $\lambda_{2}$, $\lambda_{3}$, ...,$\lambda_{n}$ are Eigen values of A then Eigen values of $A^{-1}$ are $\frac{1}{\lambda_{1}}$, $\frac{1}{\lambda_{2}}$, $\frac{1}{\lambda_{3}}$, $\frac{1}{\lambda_{4}}$, ..., $\frac{1}{\lambda_{n}}$
+9. Eigen values of $adj(A) = \frac{|A|}{\lambda}$.
+10. The matrix A and its transpose $A^{'}$ have the same characteristic roots.
+11. If $\lambda_{1}$, $\lambda_{1}$, $\lambda_{1}$,...,$\lambda_{n}$ are the n-Eigen values of square matrix A, then
+	1. Eigen values of $kA$ are $k\lambda_{1}$, $k\lambda_{2}$,...,$k\lambda_{n}$.
+	2. Eigen values of $A^{-1}$ are $\frac{1}{\lambda_{1}}$, $\frac{1}{\lambda_{2}}$, $\frac{1}{\lambda_{3}}$, $\frac{1}{\lambda_{4}}$, ..., $\frac{1}{\lambda_{n}}$
+	3. Eigen values of $A^{2}$ are $\lambda^{2}_{1}$, $\lambda^{2}_{2}$,....,$\lambda^{2}_{n}$.
+12. Any two characteristic vectors corresponding to two distinct characteristic roots of a `Unitary Matrix` or `Real Symmetric Matrix` A are orthogonal.
+
+
+### Theorem
+
+1. Product of Eigen values of a matrix is equal to determinant of that matrix.
+	1. $\lambda_{1}\times\lambda_{2}\times\lambda_{3}\times....\times\lambda_{n} = |A|$
+2. Sum of Eigen values of a matrix is equal to `trace of that matrix`
+	1. $\lambda_{1}+\lambda_{2}+\lambda_{3}+....+\lambda_{n} = |A|$.
+
 
 ## Caylay-Hamilton theorem & application to find power of matrix.
 
