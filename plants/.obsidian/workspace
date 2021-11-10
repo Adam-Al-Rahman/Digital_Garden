@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
-            "mode": "source"
+            "file": "notes/LivCon/LivConInfo.md",
+            "mode": "preview"
           }
         }
       },
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
+            "file": "notes/LHTL/LHTLInfo.md",
             "mode": "preview"
           }
         }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5007801055908,
-    "collapsed": true
+    "width": 283.5007801055908
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
+                "file": "notes/LivCon/LivConInfo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +107,15 @@
   },
   "active": "26b32455c554e2fc",
   "lastOpenFiles": [
+    "notes/LivCon/LivConInfo.md",
+    "notes/LHTL/Discussion/The social Dilemma.md",
+    "notes/LHTL/LHTLInfo.md",
     "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
     "notes/LivCon/Activities/Session-3/Synchronous/lc-sync-26-10-2021.md",
     "notes/LivCon/Activities/Session-2/Synchronous/lc-sync-19-10-2021.md",
     "notes/LivCon/Activities/Session-2/Asynchronous/lc-async-19-10-21.md",
     "notes/LivCon/Activities/Session-1/Synchronous/lc-sync-12-10-2021.md",
     "notes/LivCon/Activities/Session-1/Asynchronous/lc-async-12-10-2021.md",
-    "notes/LHTL/Activities/Session-1/Synchronous/sync-activities1.md",
-    "notes/LHTL/Activities/Session-1/Asynchronous/async-15-10-2021.md",
-    "notes/LivCon/MFF/Beautiful_Mind.md",
-    "notes/LivCon/MFF/Dead_Poets_Society.md"
+    "notes/LHTL/Activities/Session-1/Synchronous/sync-activities1.md"
   ]
 }
