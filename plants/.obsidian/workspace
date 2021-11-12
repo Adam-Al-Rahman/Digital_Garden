@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "953a5960dda25112",
+        "id": "4f91f29fd318441c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
+            "file": "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "63df41d423106735",
+        "id": "46079dcba04f3243",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
+            "file": "notes/LHTL/Activities/Session-4/Synchronous/sync-activities4.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
+                "file": "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "953a5960dda25112",
+  "active": "4f91f29fd318441c",
   "lastOpenFiles": [
+    "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
+    "notes/LHTL/Activities/Session-5/Synchronous/sync-activities5.md",
+    "notes/LHTL/Activities/Session-4/Synchronous/sync-activities4.md",
     "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
+    "notes/LHTL/Activities/Session-4/Asynchronous/async-29-10-2021.md",
+    "notes/LHTL/Activities/Session-5/Asynchronous/async-12-11-2021.md",
     "notes/LHTL/Discussion/The social Dilemma.md",
     "notes/LHTL/Activities/Session-5/Untitled.md",
     "notes/Mathematics/Matrices.md",
-    "notes/PPL/C-Lang/C-Basic.md",
-    "notes/PPL/Intro-to-ppl.md",
-    "notes/Mathematics/Differential_&_Integral_Calculus.md",
-    "notes/LivCon/LivConInfo.md",
-    "notes/LHTL/LHTLInfo.md",
-    "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md"
+    "notes/PPL/C-Lang/C-Basic.md"
   ]
 }
