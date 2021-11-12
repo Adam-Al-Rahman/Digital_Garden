@@ -15,6 +15,6 @@ Type of Course : Basic Studies
 Module Assessment : Project (50%) + Portfolio (30%) + Mega Quiz (20%)
 Cohort : 2021 – 2026
 
-<iframe src="./pdfs/Course Plan - Living Conversations.pdf" height="800" width="450"></iframe>
+<iframe src="http://localhost:8888/web/viewer.html?file=%2Fweb%2Fpdfs%2Fcompressed.tracemonkey-pldi-09.pdf" height="800" width="650"></iframe>
 
 ![[Course Plan - Living Conversations.pdf]]

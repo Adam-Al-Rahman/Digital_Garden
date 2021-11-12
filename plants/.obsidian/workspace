@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "26b32455c554e2fc",
+        "id": "953a5960dda25112",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/LivConInfo.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c44d906efb72155e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/LHTL/LHTLInfo.md",
+            "file": "notes/LHTL/Discussion/The social Dilemma.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/LivConInfo.md",
+                "file": "notes/LHTL/Discussion/The social Dilemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26b32455c554e2fc",
+  "active": "953a5960dda25112",
   "lastOpenFiles": [
-    "notes/LivCon/LivConInfo.md",
     "notes/LHTL/Discussion/The social Dilemma.md",
+    "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
+    "notes/LHTL/Activities/Session-5/Untitled.md",
+    "notes/Mathematics/Matrices.md",
+    "notes/PPL/C-Lang/C-Basic.md",
+    "notes/PPL/Intro-to-ppl.md",
+    "notes/Mathematics/Differential_&_Integral_Calculus.md",
+    "notes/LivCon/LivConInfo.md",
     "notes/LHTL/LHTLInfo.md",
-    "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md",
-    "notes/LivCon/Activities/Session-3/Synchronous/lc-sync-26-10-2021.md",
-    "notes/LivCon/Activities/Session-2/Synchronous/lc-sync-19-10-2021.md",
-    "notes/LivCon/Activities/Session-2/Asynchronous/lc-async-19-10-21.md",
-    "notes/LivCon/Activities/Session-1/Synchronous/lc-sync-12-10-2021.md",
-    "notes/LivCon/Activities/Session-1/Asynchronous/lc-async-12-10-2021.md",
-    "notes/LHTL/Activities/Session-1/Synchronous/sync-activities1.md"
+    "notes/LivCon/Activities/Session-3/Asynchronous/lc-async-26-10-2021.md"
   ]
 }

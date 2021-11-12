@@ -143,8 +143,9 @@ Where `I` is an identity matrix and `n` order and $\lambda$ is a scalar.
 
 ### Algebraic & Geometric Multiplicity
 
-- `Algebraic Multiplicity (AM)` : Number of times a particular Eigen value repeats.
-- `Geometric Multiplicity (GM)` : Number of distinct LI Eigen vectors for a particular Eigen value.
+- `Algebraic Multiplicity (AM)` : Number of times a particular Eigen value repeats. ^511a40
+- `Geometric Multiplicity (GM)` : Number of distinct LI Eigen vectors for a particular Eigen value. ^5f3577
+	- Geometric multiplicity of an Eigen Values $\lambda$ is <code>Nullity$(\eta)$ of $(A-\lambda I)$</code> or <code>$n- \rho(A-\lambda I)$</code>.
 
 > <code>$AM \geq GM$</code>
 
@@ -177,6 +178,30 @@ Where `I` is an identity matrix and `n` order and $\lambda$ is a scalar.
 2. Sum of Eigen values of a matrix is equal to `trace of that matrix`
 	1. $\lambda_{1}+\lambda_{2}+\lambda_{3}+....+\lambda_{n} = |A|$.
 
+
+### Diagonalization of Matrices:
+
+A square matrix `[A]` of order `n` over a field `F` is said to be diagonalizable, if it is similar to a diagonal matrix over the field `F`.
+
+> AM = GM for Diagonalization.
+
+Conditions:
+- I `[A]` has distinct(Different) Eigen values then it is diagonalizable.
+- If `dimV=n` and `[A]` has `LI` Eigen vector.
+- `[A]` is diagonalizable if <code>[[Matrices#^511a40|AM]] = [[Matrices#^5f3577|GM]]</code>.
+
+$$
+P = [Eigen\_vector's\_\lambda_{1} \hspace{3mm} vector's\_\lambda_{2} \hspace{3mm} vector's\_\lambda_{3}]
+$$
+$$
+P^{-1}AP = 
+\begin{bmatrix}
+\lambda_{1} &0 &0\\
+0 &\lambda_{2} &0 \\
+0 &0 &\lambda_{3}
+
+\end{bmatrix}
+$$
 
 ## Caylay-Hamilton theorem & application to find power of matrix.
 
