@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4f91f29fd318441c",
+        "id": "87b445e0ad952332",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
-            "mode": "source"
+            "file": "notes/LHTL/Quiz/week-1-4.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "46079dcba04f3243",
+        "id": "5225e77bb6695462",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Session-4/Synchronous/sync-activities4.md",
+            "file": "notes/LivCon/Coursera/week2/Informal Speaking.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mermaid",
+                "query": "attitude",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
+                "file": "notes/LHTL/Quiz/week-1-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f91f29fd318441c",
+  "active": "87b445e0ad952332",
   "lastOpenFiles": [
-    "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
-    "notes/LHTL/Activities/Session-5/Synchronous/sync-activities5.md",
-    "notes/LHTL/Activities/Session-4/Synchronous/sync-activities4.md",
-    "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
-    "notes/LHTL/Activities/Session-4/Asynchronous/async-29-10-2021.md",
-    "notes/LHTL/Activities/Session-5/Asynchronous/async-12-11-2021.md",
-    "notes/LHTL/Discussion/The social Dilemma.md",
-    "notes/LHTL/Activities/Session-5/Untitled.md",
-    "notes/Mathematics/Matrices.md",
-    "notes/PPL/C-Lang/C-Basic.md"
+    "notes/LHTL/Quiz/week-1-4.md",
+    "notes/LHTL/Quiz/Week-1-4.md",
+    "notes/LivCon/Coursera/week2/Informal Speaking.md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Preparing for an Academic Discussion.md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Getting your conversation started.md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Agree or Disagree.md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
+    "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
+    "notes/LivCon/Coursera/week1/Course Introduction/What's It Like to be a International Student.md",
+    "notes/LivCon/Coursera/week1/Course Introduction/UCI Students Talk about speaking & Group Work..md"
   ]
 }
