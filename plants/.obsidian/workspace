@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "87b445e0ad952332",
+        "id": "479051cc47a8ec61",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Quiz/week-1-4.md",
-            "mode": "preview"
+            "file": "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "5225e77bb6695462",
+        "id": "851ba327e77c37e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Coursera/week2/Informal Speaking.md",
+            "file": "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attitude",
+                "query": "delivery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/Quiz/week-1-4.md",
+                "file": "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87b445e0ad952332",
+  "active": "479051cc47a8ec61",
   "lastOpenFiles": [
-    "notes/LHTL/Quiz/week-1-4.md",
-    "notes/LHTL/Quiz/Week-1-4.md",
-    "notes/LivCon/Coursera/week2/Informal Speaking.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Preparing for an Academic Discussion.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Getting your conversation started.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Agree or Disagree.md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/Academic Discussion Evaluation (Practice Activity).md",
-    "notes/LivCon/Coursera/week1/Successful Academic Discussions/How to have a smooth discussion.md",
-    "notes/LivCon/Coursera/week1/Course Introduction/What's It Like to be a International Student.md",
-    "notes/LivCon/Coursera/week1/Course Introduction/UCI Students Talk about speaking & Group Work..md"
+    "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
+    "notes/connoisseurs/writer/samuel_johnson.md",
+    "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
+    "notes/LHTL/New Skill/Machine Learning.md",
+    "notes/LHTL/Activities/Session-3/Asynchronous/Quiz-3.md",
+    "notes/LHTL/Activities/Session-2/Asynchronous/Quiz2.md",
+    "notes/LHTL/Activities/Session-1/Asynchronous/Quiz1.md",
+    "notes/LHTL/Activities/Session-1/Asynchronous/async-15-10-2021.md",
+    "notes/LHTL/Activities/Session-6/Synchronous/sync-activites6.md",
+    "notes/LivCon/Coursera/week4/Delivering a Great Presentation.md"
   ]
 }

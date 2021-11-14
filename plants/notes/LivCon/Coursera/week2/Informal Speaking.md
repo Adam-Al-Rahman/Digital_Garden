@@ -218,8 +218,42 @@ Examples:
 
 ### Expand your answer wit more details.
 
+Most common reason,
+- Nervousness.
+	- My mind just went blank.
+
 ```mermaid
 graph TB
 
 id1(["I don't know what to say!"])-->id2(["Consider relevant details <br/> - Who, What, When, How, etc..."])
 ```
+
+### Speak continuously for 1.5 minutes.
+
+- Minimize awkward pausing or hesitating.
+	- Fillers: umm, uhh,...
+
+#### Organization
+
+- Your presentation had an introduction, a body, and a conclusion.
+- You used transitions between your main points in the body.
+
+#### Content
+
+You answered the question directly and provided relevant details.
+
+#### Accuracy
+
+There were very few grammar mistakes, and they didn't interfere with understanding. You used vocabulary accurately and appropriately.
+
+#### Pronunciation
+
+Your pronunciation was clear and easy to understand. You used word stress, pauses, and intonation appropriately.
+
+#### Verbal delivery
+
+You spoke smoothly and naturally, without too many hesitations. Your speaking was not too fast and not too slow.
+
+#### Time limit
+
+You spoke for 1.5 minutes.

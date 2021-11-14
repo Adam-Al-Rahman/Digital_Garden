@@ -4,7 +4,7 @@ Due date: 24/10/2021, 10:16 Time limit: 10 minutes
 
 Quiz contains 5 questions. and each question carry different marks.
 
-|Sl.no| Questions | My Answer | Actuall Answer|
+|Sl.no| Questions | My Answer | Actual Answer|
 |---|---|---|---|
 |02|____.is the fuel for Inquiry based learning.| Curiosity | Curiosity |
 |03|It is not important to raise question in order to learn something.|False|False|
@@ -13,7 +13,7 @@ Quiz contains 5 questions. and each question carry different marks.
 
 ## Multiple choice Question
 
-| 01| Questions | My Answer | Actuall Answer|
+| 01| Questions | My Answer | Actual Answer|
 |---|---|---|---|
 ||Research|The blue colour scatters before traveling this far while the red doesn't.|The blue colour scatters before traveling this far while the red doesn't.|  
 ||Question|Why is the sky pink and not blue?|Why is the sky pink and not blue?|
