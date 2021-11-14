@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Session-6/Asynchronous/Quiz-VI.md",
+            "file": "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7758a23222bb725e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
             "mode": "preview"
           }
         }
@@ -69,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/Activities/Session-6/Asynchronous/Quiz-VI.md",
+                "file": "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +108,15 @@
   },
   "active": "22d7e27a9bcc7456",
   "lastOpenFiles": [
-    "notes/LHTL/Activities/Session-6/Asynchronous/Quiz-VI.md",
-    "notes/LHTL/Activities/Session-4/Asynchronous/Quiz-4.md",
-    "notes/LHTL/Activities/Session-6/Asynchronous/async-13-11-2021.md",
-    "notes/LHTL/Activities/Session-5/Asynchronous/async-12-11-2021.md",
-    "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
-    "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
-    "notes/LHTL/Activities/Session-6/Synchronous/sync-activites6.md",
+    "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
+    "assets/images/logox.png",
+    "notes/PPL_Lab/Experiments/Experiment-1.md",
+    "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/PPL_Lab/Experiments/Experiment-3.md",
+    "notes/connoisseurs/scientists/Albert_Einstein.md",
     "notes/connoisseurs/Linguistics/Ferdinand_de_Saussure.md",
-    "notes/connoisseurs/writer/samuel_johnson.md",
-    "notes/LHTL/New Skill/Machine Learning.md"
+    "notes/LHTL/Discussion/The social Dilemma.md",
+    "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
+    "notes/LHTL/Activities/Session-6/Synchronous/sync-activites6.md"
   ]
 }
