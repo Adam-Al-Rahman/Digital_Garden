@@ -17,6 +17,6 @@
 <br />
 <br />
 <h4 align="center"><b><u>Faculty Name</u></b></h4>
-<h4 align="center"><b>Deepika Koundal</b></h4>
+<h4 align="center"><b><a href="https://scholar.google.co.in/citations?user=1mRY0ZkAAAAJ&hl=en" target="_blank">Deepika Koundal</a></b></h4>
 
 
