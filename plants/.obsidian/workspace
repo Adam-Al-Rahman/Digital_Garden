@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
-            "mode": "source"
+            "file": "notes/connoisseurs/Linguistics/Ferdinand_de_Saussure.md",
+            "mode": "preview"
           }
         }
       },
@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -106,9 +106,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "479051cc47a8ec61",
+  "active": "851ba327e77c37e2",
   "lastOpenFiles": [
     "notes/LHTL/Activities/Session-6/Synchronous/sync-13-11-2021.md",
+    "notes/connoisseurs/Linguistics/Ferdinand_de_Saussure.md",
     "notes/connoisseurs/writer/samuel_johnson.md",
     "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
     "notes/LHTL/New Skill/Machine Learning.md",
@@ -116,7 +117,6 @@
     "notes/LHTL/Activities/Session-2/Asynchronous/Quiz2.md",
     "notes/LHTL/Activities/Session-1/Asynchronous/Quiz1.md",
     "notes/LHTL/Activities/Session-1/Asynchronous/async-15-10-2021.md",
-    "notes/LHTL/Activities/Session-6/Synchronous/sync-activites6.md",
-    "notes/LivCon/Coursera/week4/Delivering a Great Presentation.md"
+    "notes/LHTL/Activities/Session-6/Synchronous/sync-activites6.md"
   ]
 }
