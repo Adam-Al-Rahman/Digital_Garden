@@ -19,7 +19,7 @@ $a_{1}\alpha_{1}+a_{2}\alpha_{2}+a_{3}\alpha_{3}+...+a_{n}\alpha_{n}=0$
 
 > $a_{i} \in F, 1\leq i \leq n \Rightarrow a_{i} = 0 \hspace{2mm} for \hspace{2mm} each \hspace{3mm} 1 \leq i \leq n$
 
-- Here all scalar must be zero i.e $a_{n} = 0$
+- Here all vector solution must be zero i.e $\alpha_{n} = 0$
 
 An **infinite set** of vectors of `V` is said to be linearly independent if its every finite subset is linearly independent, otherwise it is linearly dependent.
 
@@ -53,7 +53,7 @@ A matrix is said to be in Echelon form, if
 Every non-zero matrix or rank $\rho$, by a sequence of elementary transformations can be reduced to the form.
 $$
 \begin{bmatrix}  
-l_{r} & 0 &0 \\  
+I_{\rho} & 0 &0 \\  
 0 & 0 & 0 \\
 0 & 0 & 0  
 \end{bmatrix}
@@ -205,6 +205,12 @@ $$
 
 ## Caylay-Hamilton theorem & application to find power of matrix.
 
+<u>Statement</u> : Every square matrix satisfies its characteristic.
+
+> If  the characteristic polynomial of $n\times n$ square matrix A is 
+> $|A-\lambda I| = (-1)^{n} (\lambda^{n} + a_{1}\lambda{n-1}, a_{2}\lambda{n-2}+...+a_{n})$
+> Then, $A^{n} +a_{1}A^{n-1}+a_{2}A^{n-2}+...+a_{n}I=O$
+
 ## Facts to Remember
 - If $|A| \neq 0$ then $a_{1}=a_{2}=a_{3} = 0$ and it is said to be [[~Matrix#Trivial Non-Trivial Solution|Trivial Solution]] then it is linearly dependent.
 - The system of equation have non-trivial solution if $\Delta (A) = 0$
@@ -219,3 +225,5 @@ $$
 	- Case-II : If n>$\rho$, then the equation AX=0 will have n-$\rho$ linearly independent solutions.
 		- This is called `Non-Trivial Solution`.
 		- The equation AX=0 will have infinite solution.
+	- For matrix of 3 latent (characteristic) root 
+		- $|A-\lambda I| = \lambda^{3} - trc(A)\lambda^{2} + (A_{11} +A_{22} + A_{33}) - det(A)$
