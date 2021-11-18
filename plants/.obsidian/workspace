@@ -4,15 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "6e98188e93e5d5b2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/LivCon/Coursera/week4/Delivering a Great Presentation.md",
-            "mode": "source"
+        "id": "b06444510929d779",
+        "type": "split",
+        "children": [
+          {
+            "id": "6e98188e93e5d5b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/LHTL/Activities/Session-1/Synchronous/sync-15-10-2021.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "edc5423395f0b670",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -48,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/Coursera/week4/Delivering a Great Presentation.md",
+                "file": "notes/LHTL/Activities/Session-1/Synchronous/sync-15-10-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +111,15 @@
   },
   "active": "6e98188e93e5d5b2",
   "lastOpenFiles": [
+    "notes/LHTL/Activities/Session-1/Synchronous/sync-15-10-2021.md",
+    "notes/LHTL/Activities/Session-1/Synchronous/sync-activities1.md",
+    "assets/images/mindmap/Untitled.md",
+    "blue.md",
     "notes/LivCon/Coursera/week4/Delivering a Great Presentation.md",
     "notes/LivCon/Coursera/week2/Informal Speaking.md",
     "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
     "notes/LivCon/Coursera/week1/Successful Academic Discussions/Agree or Disagree.md",
     "notes/LHTL/New Skill/Exercises/exercise_machine_learning_playground.md",
-    "notes/Mathematics/Matrices.md",
-    "notes/Mathematics/Differential_&_Integral_Calculus.md",
-    "notes/PPL_Lab/Introduction/Introduction_to_Lab.md",
-    "notes/PPL_Lab/Introduction/Index.md",
-    "notes/PPL_Lab/Experiments/Experiment-2.md"
+    "notes/Mathematics/Matrices.md"
   ]
 }
