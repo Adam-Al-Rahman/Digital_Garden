@@ -224,7 +224,7 @@ gcc -o ./Comp_Exec/
 
 ---
 
-**<u>Aim-i</u>** : Swapping of the integer values without using a third variable.
+**<u>Aim-ii</u>** : Swapping of the integer values without using a third variable.
 
 **<u>Theory</u>**
 
@@ -288,3 +288,6 @@ gcc -o ./Comp_Exec/
 **<u>Terminal view</u>**
 
 ![Terminal Commands View](../../../assets/images/ppl_lab/)
+
+---
+
