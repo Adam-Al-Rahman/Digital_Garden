@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "11acd96a15920f63",
+        "id": "f7b53d6cc59e856d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL/ppl_theory.md",
+            "file": "notes/PPL/ppl_exm.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "2fe9545ebbd92f09",
+        "id": "ca51819eb3db129c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL/ppl_theory.md",
+            "file": "notes/Physics/Laser & Optics/Laser.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "backgroun",
+                "query": "align",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5007801055908,
-    "collapsed": true
+    "width": 283.5007801055908
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL/ppl_theory.md",
+                "file": "notes/PPL/ppl_exm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11acd96a15920f63",
+  "active": "f7b53d6cc59e856d",
   "lastOpenFiles": [
-    "notes/PPL/ppl_theory.md",
-    "assets/images/ppl_lab/detail_von_neuman.png",
-    "assets/images/ppl_lab/rmdir_command.png",
-    "assets/images/hastyFallacy.png",
-    "assets/images/organiz_list.jpg",
-    "assets/images/takeDoubleEntryNote.jpg",
-    "assets/images/trustMeDoctor.jpg",
-    "assets/images/Types-of-Student-Inquiry-Illustration.png",
-    "assets/images/upes_logo.png",
-    "assets/images/ppl_lab/Von-Neumann-Architecture-Diagram.jpg"
+    "notes/PPL/ppl_exm.md",
+    "notes/Physics/Laser & Optics/Laser.md",
+    "notes/LHTL/Activities/Session-5/Synchronous/sync-12-11-2021.md",
+    "notes/PPL_Lab/Experiments/Experiment-4.md",
+    "notes/PPL_Lab/Experiments/Experiment-3.md",
+    "notes/PPL_Lab/Experiments/Experiment-1.md",
+    "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/LHTL/Activities/Session-6/Asynchronous/Quiz-VI.md",
+    "assets/8.png",
+    "rough_sign.png"
   ]
 }

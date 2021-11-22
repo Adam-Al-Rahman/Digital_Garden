@@ -1,27 +1,4 @@
-# PPL
-
-## System Language
-
-In 1960 `Christopher Strachey` developed `CPL (Combined Prgramming Language)` however CPL implemented very slowly in 1966 `Martin Richard` developed `BCPL ( Basic CPL)`
-
-## Independent & Separate Compilation
-
-- Independent Compilation : We can compile files in any order. it's `doesn't` affect the final output.
-	- Languages : C, C++, Java,...
-
-- Separate Compilation : Compilation should be done in proper order.
-	- Files which define functions should be compiled first and then compile the file which call these function.
-	- Language : Ada
-
-
-## Compilation & Interpretation
-
-- Compilation : All the file's code is read and then executed.
-	- Languages: C/C++,...
-- Interpretation : Line by line execution happens
-	- Languages : python,...
-
-## Impact of Machine Architecture on Programming Language
+# Impact of Computer Architecture
 
 ### Von Neumann Computer Architecture
 
@@ -88,6 +65,9 @@ The address will uniquely identify every location in the memory.
 
 Loading data from permanent memory (hard drive), into the faster and directly accessible temporary memory (RAM), allows the CPU to operate much quicker.
 
+<iframe src="https://www.computerscience.gcse.guru/theory/von-neumann-architecture" width="650" height="800"></iframe>
+
+
 ```mermaid
 graph TB
 
@@ -134,3 +114,20 @@ A computer must provide mechanisms for controlling the data supplied to each exe
 #### Storage Management
 
 A computer must provide mechanisms to control the allocation of storage for programs and data.
+
+- It takes nanoseconds to access memory within processor (i.e. register)
+- It takes microseconds to access Main memory.
+- It takes milliseconds to access external storage.
+
+To balance these speeds appropriately, various storage management facilities are employed.
+
+> For speeding up the imbalance between external data access and the central processor, `multiprogramming` is often used by the operating system.
+
+> For speeding up the imbalance between `main memory` and the `central processor`, a cache memory is used.
+
+#### Operating Environment
+
+A computer must provide mechanisms for communication with an external environment containing programs and data to be processed.
+
+- The operating environment of a computer ordinarily consist of a set of peripheral storage and I/O devices.
+
