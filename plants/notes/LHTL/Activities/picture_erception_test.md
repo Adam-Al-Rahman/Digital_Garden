@@ -1,6 +1,6 @@
 # Picture Perception Test
 <details>  
-	<summary style="color:#bf616a;-webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;border: 3px; border-color: #6f6fc8; border-style: dashed;padding:10px;">Description</summary>  
+	<summary style="color:#bf616a;-webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;"><span style="border: 3px; border-color: #6f6fc8; border-style: dashed;padding:5px;">Description</span></summary>  
 	 <ul>
 		 <li>Providing students a few picture and let them choose one picture and write a story based on one’s perception.</li>
 		<li>Applying mind-mapping technique, creativity, critical thinking skills.</li>
@@ -9,7 +9,6 @@
  
 <br/> 
 
-![Picture PT](../../../../../assets/images/picperc.png)
 
 <span>Source</span>: <a href="https://image.slidesharecdn.com/standarizedtests-121230001331-phpapp01/95/standarized-tools-9-638.jpg?cb=1356826549" target="_blank">Picture PT</a>
 
@@ -24,3 +23,5 @@ Aman Khan was very close to the workers he always think them as family. His natu
 
 All was going good till the day 24 March, 2023. When Aman fall down while explain the future plan of next product to his assistant Raju Rangolia
 
+
+![Picture PT](../../../../../assets/images/picperc.png)

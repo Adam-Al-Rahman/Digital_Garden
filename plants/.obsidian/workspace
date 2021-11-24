@@ -10,6 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "notes/LHTL/Activities/picture_erception_test.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f64ccbd5ce591c2b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/LHTL/Activities/picture_erception_test.md",
             "mode": "preview"
           }
         }
@@ -52,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5007801055908
+    "width": 283.5007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "69161a295fdf0005",
