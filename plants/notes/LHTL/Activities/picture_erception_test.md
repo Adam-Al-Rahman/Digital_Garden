@@ -1,13 +1,13 @@
 # Picture Perception Test
 <details>  
- <summary style="color:#bf616a;-webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;">Description</summary>  
- <ul>
-	 <li>Providing students a few picture and let them choose one picture and write a story based on one’s perception.</li>
-	<li>Applying mind-mapping technique, creativity, critical thinking skills.</li>
-</ul>
+	<summary style="color:#bf616a;-webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none;border: 3px; border-color: #6f6fc8; border-style: dashed;padding:10px;">Description</summary>  
+	 <ul>
+		 <li>Providing students a few picture and let them choose one picture and write a story based on one’s perception.</li>
+		<li>Applying mind-mapping technique, creativity, critical thinking skills.</li>
+	</ul>
 </details>
  
- 
+<br/> 
 
 ![Picture PT](../../../../../assets/images/picperc.png)
 
