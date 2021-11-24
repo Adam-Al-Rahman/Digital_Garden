@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f64ccbd5ce591c2b",
+        "id": "7b025dd4a22ffbc7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,24 +15,13 @@
         }
       },
       {
-        "id": "8ad821084f97d834",
+        "id": "1f165472cb26606f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "notes/LHTL/Activities/picture_erception_test.md",
             "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "9144a793e7fce46a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/LHTL/Sessions/Session-7/Synchronous/sync-18-11-2021.md",
-            "mode": "source"
           }
         }
       }
@@ -117,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f64ccbd5ce591c2b",
+  "active": "7b025dd4a22ffbc7",
   "lastOpenFiles": [
     "notes/LHTL/Activities/picture_erception_test.md",
+    "notes/LHTL/Sessions/Session-8/Synchronous/sync-19-11-2021.md",
     "notes/LHTL/Sessions/Session-7/Synchronous/sync-18-11-2021.md",
-    "notes/LHTL/Sessions/Session-7/Asynchronous/async-18-11-2021.md",
-    "notes/LHTL/Sessions/Session-6/Asynchronous/async-13-11-2021.md",
-    "notes/PPL_Lab/Experiments/Experiment-1.md",
     "notes/LHTL/Sessions/Session-6/Synchronous/sync-13-11-2021.md",
-    "notes/LivCon/Guest_Talks/Guest_Talks-I.md",
-    "notes/LHTL/Sessions/Session-6/Asynchronous/Quiz-VI.md",
-    "notes/Physics/Laser & Optics/Laser.md",
-    "notes/PPL/ppl_exm.md"
+    "notes/connoisseurs/philosophers/Francis_Bacon.md",
+    "notes/connoisseurs/Linguistics/Ferdinand_de_Saussure.md",
+    "notes/LHTL/Activities/Evaluation of Evidence.md",
+    "notes/LHTL/Sessions/Session-5/Asynchronous/async-12-11-2021.md",
+    "notes/LHTL/Sessions/Session-3/Asynchronous/async-23-10-2021.md",
+    "notes/LHTL/Sessions/Session-4/Asynchronous/async-29-10-2021.md"
   ]
 }
