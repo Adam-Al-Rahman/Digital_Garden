@@ -19,7 +19,7 @@
 
 <h2 align="center" style="color:"><u>Title</u>: The Time</h2>
 
-<h4 align="center">What! the CEO of TechX company is dead and his last words are...</h3>
+<h4 align="center">What! the CEO of TechX company is dead and his last words are...</h4>
 
 Aman Khan and Khushi Khan both married in the year 2022. They both were happy. Aman Khan was the owner of a small tech company which is called `TechX` this company produce the material part for smartphones and deliver them. And Khushi was a housewife. They gave birth to the boy child, day 16 Feb 2023. They celebrated his birth with a grand party along with his office workers.
 

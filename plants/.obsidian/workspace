@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Mind_map.md",
-            "mode": "preview"
+            "file": "notes/LHTL/Activities/picture_erception_test.md",
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5007801055908,
-    "collapsed": true
+    "width": 283.5007801055908
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/Activities/Mind_map.md",
+                "file": "notes/LHTL/Activities/picture_erception_test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +96,9 @@
   },
   "active": "1f165472cb26606f",
   "lastOpenFiles": [
+    "notes/LHTL/Activities/picture_erception_test.md",
     "notes/LHTL/Activities/Mind_map.md",
     "notes/LHTL/Sessions/Session-1/Synchronous/sync-activities1.md",
-    "notes/LHTL/Activities/picture_erception_test.md",
     "notes/LHTL/Sessions/Session-8/Synchronous/sync-19-11-2021.md",
     "notes/LHTL/Sessions/Session-7/Synchronous/sync-18-11-2021.md",
     "notes/LHTL/Sessions/Session-6/Synchronous/sync-13-11-2021.md",
