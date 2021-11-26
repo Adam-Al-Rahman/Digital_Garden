@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/picture_erception_test.md",
-            "mode": "source"
+            "file": "notes/LHTL/Activities/Mind_map.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/Activities/picture_erception_test.md",
+                "file": "notes/LHTL/Activities/Mind_map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "1f165472cb26606f",
   "lastOpenFiles": [
-    "notes/LHTL/Activities/picture_erception_test.md",
     "notes/LHTL/Activities/Mind_map.md",
+    "notes/LHTL/Activities/picture_erception_test.md",
     "notes/LHTL/Sessions/Session-1/Synchronous/sync-activities1.md",
     "notes/LHTL/Sessions/Session-8/Synchronous/sync-19-11-2021.md",
     "notes/LHTL/Sessions/Session-7/Synchronous/sync-18-11-2021.md",
