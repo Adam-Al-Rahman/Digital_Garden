@@ -46,9 +46,13 @@ A matrix is said to be in Echelon form, if
 - The number of zero preceding the first non-zero element in a row is less than that the number of such zeros in the succeeding (or  next) row.
 - The first non-zero element in every row is unity.
 
+> Only row operation allowed
+
 
 ### Reduced - Row Echelon Form
 ### Normal Form
+
+> Both row and column operation are allowed
 
 Every non-zero matrix or rank $\rho$, by a sequence of elementary transformations can be reduced to the form.
 $$
@@ -58,7 +62,7 @@ I_{\rho} & 0 &0 \\
 0 & 0 & 0  
 \end{bmatrix}
 $$
-- Where $l_{r}$ is a rxr unit matrix of order r and 0 represent null matrix.
+- Where $l_{\rho}$ is a $\rho\times\rho$ unit matrix of order $\rho$ and 0 represent null matrix.
 
 ## Consistence of system of linear Eq'n & its Solution
 
@@ -176,7 +180,7 @@ Where `I` is an identity matrix and `n` order and $\lambda$ is a scalar.
 1. Product of Eigen values of a matrix is equal to determinant of that matrix.
 	1. $\lambda_{1}\times\lambda_{2}\times\lambda_{3}\times....\times\lambda_{n} = |A|$
 2. Sum of Eigen values of a matrix is equal to `trace of that matrix`
-	1. $\lambda_{1}+\lambda_{2}+\lambda_{3}+....+\lambda_{n} = |A|$.
+	1. $\lambda_{1}+\lambda_{2}+\lambda_{3}+....+\lambda_{n} = trc(A)$.
 
 
 ### Diagonalization of Matrices:

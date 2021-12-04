@@ -291,3 +291,93 @@ gcc -o ./Comp_Exec/
 
 ---
 
+<h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">4. Print the given days in years-month-days format. </h4>
+
+
+**<u>Aim-i</u>** : Swapping of the integer values using a third variable.
+
+**<u>Theory</u>**
+
+**<u>Algorithm</u>**
+
+```algo
+Step-1 : Start
+Step-2 : Declaring variables number_1, number_2, number_3
+Step-3 : Read number_1, number_2
+Step-4 : 
+
+	Assign number_1 to number_3
+	- number_3 <-- number_1
+	
+	Assing number_2 to number_1
+	- number_1 <-- number_2
+	
+	Assing number_3 to number_2
+	- number_2 <-- number_3
+	
+Step-5 : Display number_1 and number_2
+Step-6 : Stop
+
+```
+
+**<u>Flowchart</u>**
+
+Defining Variables
+
+
+```mermaid
+graph TB
+start(["Start"])-->cawl["Clear All Working Location(CAWL)"]
+cawl-->dec[" "]
+dec-->in1[/" "/]
+in1-->proc[" "]
+proc-->out[/" "/]
+out-->stop(["Stop"])
+```
+
+**<u>Program</u>**
+
+```c
+#include <stdio.h>
+
+// year is consider for 365 days.
+int main(){
+
+    int days;
+
+    printf("Enter number of days : ");
+    scanf("%d", &days);
+
+    printf("Calender format : %d year - %d month - %d days", (days/365), (days%365)/30, ((days%365)%30));
+
+    return 0;
+}
+```
+
+**<u>Compilation</u>**
+
+Distribution : Debian Linux
+
+OS (Operating System) : Ubuntu [WSL2]
+
+File Name :
+
+Compiled File's Folder : `./Comp_Exec`
+
+```sh
+gcc -o ./Comp_Exec/ 
+```
+
+**<u>Input</u>**
+
+**<u>Output</u>**
+
+**<u>Terminal view</u>**
+
+![Terminal Commands View](../../../assets/images/ppl_lab/)
+
+---
+
+
+
+

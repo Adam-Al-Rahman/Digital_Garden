@@ -26,5 +26,7 @@
   ],
   "showLineNumber": true,
   "foldIndent": true,
-  "foldHeading": true
+  "foldHeading": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true
 }

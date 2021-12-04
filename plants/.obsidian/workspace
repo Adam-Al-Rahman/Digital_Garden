@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1f165472cb26606f",
+        "id": "ad061dc59c6ebdd2",
         "type": "leaf",
+        "dimension": 49.67213114754098,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/Activities/Mind_map.md",
+            "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fa607d9d8ab884a7",
+        "type": "leaf",
+        "dimension": 50.32786885245901,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
             "mode": "preview"
           }
         }
@@ -52,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5007801055908
+    "width": 283.5007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/Activities/Mind_map.md",
+                "file": "notes/PPL_Lab/Experiments/Experiment-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f165472cb26606f",
+  "active": "fa607d9d8ab884a7",
   "lastOpenFiles": [
-    "notes/LHTL/Activities/Mind_map.md",
-    "notes/LHTL/Activities/picture_erception_test.md",
-    "notes/LHTL/Sessions/Session-1/Synchronous/sync-activities1.md",
-    "notes/LHTL/Sessions/Session-8/Synchronous/sync-19-11-2021.md",
-    "notes/LHTL/Sessions/Session-7/Synchronous/sync-18-11-2021.md",
-    "notes/LHTL/Sessions/Session-6/Synchronous/sync-13-11-2021.md",
-    "notes/connoisseurs/philosophers/Francis_Bacon.md",
-    "notes/connoisseurs/Linguistics/Ferdinand_de_Saussure.md",
-    "notes/LHTL/Activities/Evaluation of Evidence.md",
-    "notes/LHTL/Sessions/Session-5/Asynchronous/async-12-11-2021.md"
+    "notes/PPL_Lab/Experiments/Experiment-3.md",
+    "notes/PPL_Lab/Experiments/Experiment-4.md",
+    "notes/PPL/ppl_exm.md",
+    "assets/images/ppl_lab/pdf/updated PPL_Lab_Plan.pdf",
+    "Physics/Assignments/assignment_1.md",
+    "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/PPL/C-Lang/C-Basic.md",
+    "notes/PPL_Lab/Introduction/Index.md",
+    "templates/Experiment.md",
+    "Physics/e-card.md"
   ]
 }
