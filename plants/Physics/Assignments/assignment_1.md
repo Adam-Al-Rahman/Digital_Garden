@@ -37,7 +37,19 @@ Population Inversion is achieved through `MetaStable States` an intermediate sta
 
 <span style="color:lightgreen;">$\underline{Sol^{n}}$</span>:
 
+### Role of $He$ atom
 
+
+- $He$ atom help in exciting neon atoms and cause `Population Inversion`.
+- Ratio of $10:1$, 10 helium atom per 1 neon atom. So, energy transfer from helium to neon is more and neon to helium is negligible.
+- $Ne$ atom are the `active center`.
+
+### Component of $He-Ne$ laser
+
+- Active Medium: Gas()
+- Pumping: Electric Discharge.
+- Pumping Agent: Electron($e^{-}$).
+- Optical Resonator: Fabry-Perot optical resonator.
 
 ---
 

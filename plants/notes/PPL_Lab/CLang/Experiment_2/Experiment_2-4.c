@@ -5,7 +5,7 @@
  * @version 0.1
  * @date 2021-11-15
  *
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (C) 2021
  *
  */
 
