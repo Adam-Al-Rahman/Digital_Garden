@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f01f629777ad7dbf",
+        "id": "4a005ba9794d0abf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/E-Journal/E-Journal.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "76aa547db788cca4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/LivCon/E-Journal/E-Journal.jour.md",
+            "file": "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
             "mode": "preview"
           }
         }
@@ -63,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330,
-    "collapsed": true
+    "width": 330
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -80,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/E-Journal/E-Journal.md",
+                "file": "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +94,17 @@
     "width": 528,
     "collapsed": true
   },
-  "active": "f01f629777ad7dbf",
+  "active": "4a005ba9794d0abf",
   "lastOpenFiles": [
-    "notes/LivCon/E-Journal/E-Journal.md",
-    "notes/LivCon/E-Journal/E-Journal.jour.md",
+    "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
+    "notes/LHTL/LHTLInfo.md",
     "notes/LivCon/MFF/Beautiful_Mind.md",
+    "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
+    "Physics/E-Journal.md",
+    "notes/LivCon/E-Journal/E-Journal.md",
+    "notes/LivCon/MFF/Dead_Poets_Society.md",
+    "notes/LivCon/MFF/Pursuit_of_Happiness.md",
     "notes/LHTL/New Skill/Machine Learning.md",
-    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
-    "notes/Welcome.md",
-    "c++.md",
-    "templates/Experiment.md",
-    "notes/PPL_Lab/Experiments/Experiment-2.md",
-    "notes/PPL_Lab/Experiments/Experiment-1.md"
+    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md"
   ]
 }
