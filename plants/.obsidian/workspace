@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
-            "mode": "preview"
+            "file": "notes/PPL_Lab/Experiments/Experiment-1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e3b2bffa416a8a42",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 330,
+    "collapsed": true
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -68,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
+                "file": "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +106,10 @@
     "width": 528,
     "collapsed": true
   },
-  "active": "4a005ba9794d0abf",
+  "active": "e3b2bffa416a8a42",
   "lastOpenFiles": [
+    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+    "notes/PPL_Lab/Experiments/Experiment-1.md",
     "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
     "notes/LHTL/LHTLInfo.md",
     "notes/LivCon/MFF/Beautiful_Mind.md",
@@ -103,8 +117,6 @@
     "Physics/E-Journal.md",
     "notes/LivCon/E-Journal/E-Journal.md",
     "notes/LivCon/MFF/Dead_Poets_Society.md",
-    "notes/LivCon/MFF/Pursuit_of_Happiness.md",
-    "notes/LHTL/New Skill/Machine Learning.md",
-    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md"
+    "notes/LivCon/MFF/Pursuit_of_Happiness.md"
   ]
 }
