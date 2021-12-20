@@ -146,8 +146,72 @@ The Visual mode has three sub-mode:
 
 Commands
 
-- `more` :
-- `cp` : 
+- `more` : Used to view text file
+	- Syntax: `more [options] [filename]`
+- `cp` : Used to copy file or folder from one file or folder to another
+	- Syntax: `cp file_folder destination_file_folder`
 - `mv` : 
+	- Stand for `move`.
+	- Used to move file or folder from one place to another.
 - `rm` : 
+	- Stand for `remove`
+	- Used to rm file or folder.
+	- For folder it is recursively
+		- Syntax: `rm -r folder_name`
+	- Syntax: `rm file_name`
 
+**<u>Commands</u>**
+
+- For `more` command
+
+![more command](../../../assets/images/ppl_lab/more_command.png)
+
+![more command](../../../assets/images/ppl_lab/more_exd_command.png)
+
+
+- For `cp` command
+
+![cp command](../../../assets/images/ppl_lab/cp_command.png)
+
+
+- For `mv` command
+
+![mv command](../../../assets/images/ppl_lab/mv_command.png)
+
+---
+
+### <u>Activity</u>: 2. Familiarization of the following
+
+
+<h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">2.a. Structure of C program [Example: C program to print “My name is …”]</h4>
+
+- Structure of `C`
+	- Header file declaration Section
+	- Global Declarations (if any)
+	- Main Function
+	- Statements & Expressions
+	- User Defined Functions(UDF)
+	- Comments
+
+```c
+//pre-processor directive
+#include <stdio.h>
+
+//global variable
+
+// Main function
+int main(){
+
+	//print statement
+	printf("My name is ...");
+	
+	return 0;
+}
+```
+
+
+<h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">b. Execution Environment & Stages of Compilation. Use Linux vi editor on the terminal window. </h4>
+
+```c
+
+```

@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "83e719d2e40b905a",
+    "id": "02d2fa66abe5a2a1",
     "type": "split",
     "children": [
       {
-        "id": "b48d89e194fb2e0a",
+        "id": "f01f629777ad7dbf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/LivCon/E-Journal/E-Journal.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "76aa547db788cca4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/LivCon/E-Journal/E-Journal.jour.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Inqui",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5007801055908
+    "width": 330,
+    "collapsed": true
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -65,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/LivCon/E-Journal/E-Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,20 +103,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 528,
     "collapsed": true
   },
-  "active": "b48d89e194fb2e0a",
+  "active": "f01f629777ad7dbf",
   "lastOpenFiles": [
-    "Physics/math_assign/30-01-2021.md",
-    "assets/images/ppl_lab/pdf/updated PPL_Lab_Plan.pdf",
     "notes/LivCon/E-Journal/E-Journal.md",
+    "notes/LivCon/E-Journal/E-Journal.jour.md",
+    "notes/LivCon/MFF/Beautiful_Mind.md",
+    "notes/LHTL/New Skill/Machine Learning.md",
+    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+    "notes/Welcome.md",
+    "c++.md",
+    "templates/Experiment.md",
     "notes/PPL_Lab/Experiments/Experiment-2.md",
-    "notes/LivCon/Guest_Talks/Guest_Talks-I.md",
-    "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
-    "notes/LivCon/Coursera/week1/Course Introduction/Introduction to Speaking Skill for University Success.md",
-    "Physics/Assignments/assignment_1.md",
-    "Physics/Laser & Optics/Laser.md",
     "notes/PPL_Lab/Experiments/Experiment-1.md"
   ]
 }

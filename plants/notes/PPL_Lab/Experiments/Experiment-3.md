@@ -40,21 +40,6 @@ Step-6 : Stop
 ```
 
 
-**<u>Flowchart</u>**
-
-Defining Variables
-
-
-```mermaid
-graph TB
-start(["Start"])-->cawl["Clear All Working Location(CAWL)"]
-cawl-->dec[" "]
-dec-->in1[/" "/]
-in1-->proc[" "]
-proc-->out[/" "/]
-out-->stop(["Stop"])
-```
-
 **<u>Program</u>**
 
 ```c

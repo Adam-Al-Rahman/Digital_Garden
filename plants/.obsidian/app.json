@@ -22,11 +22,14 @@
     "Graphomotor",
     "VScode",
     "Arsenide",
-    "directionality"
+    "directionality",
+    "polymorphism",
+    "Namespace"
   ],
   "showLineNumber": true,
   "foldIndent": true,
   "foldHeading": true,
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview"
 }
