@@ -183,6 +183,3 @@ Machine learning is a vast topics to cover, as I've only scratch the surface of 
 - Python : As programming language.
 - Pip : Python's package manager.
 - Vim binding : Keyboard commands that do specific things in the editor.
-
-<a href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks" target="_blank"> Jupyter Notebook in VScode</a>.
-
