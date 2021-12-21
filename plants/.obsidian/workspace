@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+            "file": "Essay_On_Learning_New_Skill.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+                "file": "Essay_On_Learning_New_Skill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
   },
   "active": "9f7fe1a714d310d7",
   "lastOpenFiles": [
-    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+    "Essay_On_Learning_New_Skill.md",
     "notes/PPL_Lab/Experiments/Experiment-1.md",
     "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
     "notes/LHTL/LHTLInfo.md",
