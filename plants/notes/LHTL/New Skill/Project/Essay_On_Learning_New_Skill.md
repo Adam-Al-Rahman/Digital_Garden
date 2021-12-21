@@ -183,3 +183,5 @@ Machine learning is a vast topics to cover, as I've only scratch the surface of 
 - Python : As programming language.
 - Pip : Python's package manager.
 - Vim binding: keyboard commands that do specific things in the editor.
+
+> Jupyter notebook can written in vscode now.
