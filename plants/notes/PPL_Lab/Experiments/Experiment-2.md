@@ -154,3 +154,161 @@ Division of two interger : 0
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">2. Find if the given number is even or not.</h4>
 
+**<u>Aim</u>**: Find the given number is even or not.
+
+**<u>Theory</u>**
+
+- Even Number: Number that is perfectly divisible by 2.
+
+- Odd Number: Number that is perfectly divisible by 3.
+
+
+**<u>Algorithm</u>**
+
+
+```algo
+Step-1: Start
+Step-2: Declare variable number, even, odd
+Step-3: Read number
+Step-4:
+Step-5: 
+Step-6: Stop
+```
+
+**<u>Flowchart</u>**
+
+Defining Variables
+
+- number: number variable.
+
+
+**<u>Program</u>**
+
+```c
+#include <stdio.h>
+
+int main(){
+
+    int number;
+    printf("Enter the number: ");
+
+    scanf("%d",&number);
+    if (number%2 == 0){
+        printf("Number %d is Even.",number);
+    }
+    else if(number%2 == 1){
+        printf("Number %d is Odd", number);
+    }
+
+}
+```
+
+
+<h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">3. Find the biggest of three numbers.</h4>
+
+**<u>Aim</u>**: Find the biggest of three number.
+
+**<u>Algorithm</u>**
+
+```algo
+Step-1: Start
+Step-2: Declare
+Step-3:
+Step-4:
+Step-5:
+Step-6: Stop
+```
+
+**<u>Flowchart</u>**
+
+**<u>Program</u>**
+
+```c
+#include <stdio.h>
+
+int main(){
+
+    int number_1;
+    int number_2;
+    int number_3;
+
+    printf("Enter the number: ");
+    scanf("%d %d %d", &number_1, &number_2, &number_3);
+
+    if (number_1>number_2 && number_1>number_3){
+        printf("The biggest number between %d, %d, %d: %d",number_1,number_2,number_3, number_1);
+    }
+    else if(number_2>number_1 && number_2>number_3){
+        printf("The biggest number between %d, %d, %d: %d",number_1,number_2,number_3, number_2);
+    }
+    else if(number_3>number_1 && number_3>number_1){
+        printf("The biggest number between %d, %d, %d: %d",number_1,number_2,number_3, number_3);
+    }
+
+}
+```
+
+---
+
+<h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">4. Multiply two numbers without using arithmetic multiplication operator (*)</h4>
+
+**<u>Aim</u>**: Multiply two numbers without using arithmetic multiplication operator (*).
+
+**<u>Theory</u>**
+
+
+**<u>Algorithm</u>**
+
+```algo
+
+Step-1: Start
+Step-2:
+Step-3:
+Step-4:
+Step-5:
+Step-6: Stop
+```
+
+
+*z
+
+*<u>Flowchart</u>**
+
+
+**<u>Program</u>**
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    int a;
+    int b;
+    int c;
+
+    printf("Enter two integer a, b : ");
+    scanf("%d %d", &a, &b);
+
+    if (a <= b)
+    {
+        c = b;
+        for (int i = 1; i = a; i++)
+            b = c + b;
+
+        printf("Multiplication of  `a` and `b` : %d", b);
+    }
+    else
+    {
+        c = a;
+        for (int i = 1; i = b; i++)
+            a = c + a;
+
+        printf("Multiplication of  `a` and `b` : %d", a);
+    }
+
+    return 0;
+}
+```
+
+
+---

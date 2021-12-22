@@ -41,5 +41,5 @@ Meantime, his son was playing in the living room to see his parent he came to th
 
 And this is how a great businessman died by saying "I've no regrets".
 
-After his burial,
+After his funeral,
 His wife Khushi became the CEO of both companies which was written in Aman will and launched the BrainX as his husband announced.

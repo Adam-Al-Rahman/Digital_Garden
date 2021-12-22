@@ -168,7 +168,6 @@ Commands
 
 ![more command](../../../assets/images/ppl_lab/more_exd_command.png)
 
-
 - For `cp` command
 
 ![cp command](../../../assets/images/ppl_lab/cp_command.png)
@@ -185,6 +184,10 @@ Commands
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">2.a. Structure of C program [Example: C program to print “My name is …”]</h4>
 
+**<u>Aim</u>**: Explain the structure of `c` by printing `My name is ...`
+
+**<u>Theory</u>**
+
 - Structure of `C`
 	- Header file declaration Section
 	- Global Declarations (if any)
@@ -192,6 +195,8 @@ Commands
 	- Statements & Expressions
 	- User Defined Functions(UDF)
 	- Comments
+
+**<u>Program</u>**
 
 ```c
 //pre-processor directive
@@ -212,6 +217,39 @@ int main(){
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">b. Execution Environment & Stages of Compilation. Use Linux vi editor on the terminal window. </h4>
 
-```c
+**<u>Aim</u>** : Execution Environment & Stages of Compilation.
 
+**<u>Theory</u>**
+
+Compiler converts a C program into an executable. There are four step for a `C program` to become an executable: 
+
+1.  Pre-processing
+2.  Compilation
+3.  Assembly
+4.  Linking
+
+- **<u>Compilation</u>**
+
+	- Distribution: Debian Linux
+
+	- OS (Operating System): Ubuntu \[WSL2\]
+
+	- File Name: `hello-world.c`
+
+	```sh
+	gcc -o hello-world ./hello-world.c
+	```
+
+	- `gcc`: GNU `c` compiler.
+
+**<u>Output</u>**
+
+```sh
+Hello World
 ```
+
+**<u>Terminal View</u>**
+
+![more command](../../../assets/images/ppl_lab/exec_vim.png)
+
+---

@@ -31,5 +31,7 @@
   "foldHeading": true,
   "promptDelete": false,
   "showUnsupportedFiles": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "livePreview": false
 }

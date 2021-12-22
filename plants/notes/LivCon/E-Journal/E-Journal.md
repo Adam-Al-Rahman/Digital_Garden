@@ -85,6 +85,10 @@ The idea of space colonization has an almost poetic quality:
 
 ## Atiq Urrehaman
 
+### Singularity
+
+Srajeta, I think the singularity or technological singularity is a hypothetical point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. According to the most popular version of the singularity hypothesis, called Intelligence explosion, an upgradable intelligent agent will eventually enter a "runaway reaction" of self-improvement cycles, each new and more intelligent generation appearing more and more rapidly, causing an "explosion" in intelligence and resulting in a powerful super-intelligence that qualitatively far surpasses all human intelligence.
+
 ### Artificial Intelligence
 
 **Artificial Intelligence (AI) refer to any technique that enables computers or robot to mimic or act and think like human.**

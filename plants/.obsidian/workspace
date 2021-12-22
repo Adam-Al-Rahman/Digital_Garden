@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9f7fe1a714d310d7",
+        "id": "1022f1fd75904cfc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
-            "mode": "source"
+            "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -52,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 330,
+    "collapsed": true
   },
   "right": {
     "id": "69161a295fdf0005",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+                "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,17 +96,17 @@
     "width": 528,
     "collapsed": true
   },
-  "active": "9f7fe1a714d310d7",
+  "active": "1022f1fd75904cfc",
   "lastOpenFiles": [
-    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+    "notes/PPL_Lab/Experiments/Experiment-2.md",
+    "notes/LHTL/Activities/picture_perception_test.md",
+    "notes/PPL_Lab/Experiments/Experiment-3.md",
+    "notes/PPL_Lab/Experiments/Experiment-4.md",
     "notes/PPL_Lab/Experiments/Experiment-1.md",
-    "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
-    "notes/LHTL/LHTLInfo.md",
     "notes/LivCon/MFF/Beautiful_Mind.md",
-    "notes/LivCon/Guest_Talks/Guest_Talks-II.md",
-    "Physics/E-Journal.md",
     "notes/LivCon/E-Journal/E-Journal.md",
-    "notes/LivCon/MFF/Dead_Poets_Society.md",
-    "notes/LivCon/MFF/Pursuit_of_Happiness.md"
+    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+    "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
+    "notes/LHTL/LHTLInfo.md"
   ]
 }

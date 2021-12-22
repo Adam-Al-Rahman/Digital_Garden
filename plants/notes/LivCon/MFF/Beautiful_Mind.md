@@ -10,6 +10,6 @@
 
 ### What I Learned
 
-- Make your original
-- Think for original
-- Hard-work for the original
+- Make your original.
+- Think for original.
+- Hard-work for the original.
