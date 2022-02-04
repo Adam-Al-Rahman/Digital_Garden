@@ -24,7 +24,8 @@
     "Arsenide",
     "directionality",
     "polymorphism",
-    "Namespace"
+    "Namespace",
+    "Stratford"
   ],
   "showLineNumber": true,
   "foldIndent": true,
@@ -32,6 +33,6 @@
   "promptDelete": false,
   "showUnsupportedFiles": true,
   "defaultViewMode": "source",
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": false
 }

@@ -124,7 +124,10 @@ The system will have non-trivial solution if and only if the rank of the coeffic
 
 ## Eigen Values & Eigen Vector
 
+
 ### Eigen Values | Latent root | characteristic root
+
+For derivation of Characteristic Equation: <span><a href="https://ocw.mit.edu/ans7870/18/18.013a/textbook/HTML/chapter04/section06.html" target="_blank">Equation</a></span>
 
 Let $A = [a_{ij}]_{m\times n}$ be a square matrix of order n.
 Consider the homogeneous system of equation.

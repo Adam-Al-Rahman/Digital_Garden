@@ -131,8 +131,20 @@ The difference between holography and photography
 
 ---
 
-## 7. What equipment is needed for fiber optic internet? What is the bandwidth of optical fiber?
+## 7. What equipment is needed for fiber optic internet?
 
 <span style="color:lightgreen;">$\underline{Sol^{n}}$</span>:
+
+FIBER OPTIC MODEM
+
+The traditional cable and DSL modems that many Americans have in their homes can’t be used with fiber optic internet. These modems are capable of converting analogue signals into digital ones, but they’re not capable of translating the light signals from fiber optic cables into digital signals. Therefore, you will need to invest in a new modem, which will usually be provided by your fiber optic internet company.
+
+FIBER OPTIC WIRELESS ROUTER
+
+In addition to swapping out your current modem for one that can handle fiber optic signals, you’ll also need to purchase a new wireless router. The router should be up for the challenge of keeping up with the speeds provided by fiber optic cables. Otherwise, you won’t be able to fully appreciate all that fiber optic internet has to offer.
+
+BAND WIDTH
+
+Fiber optic cable is composed of microscopic strands of glass. Information in the form of bytes of data can travel through this glass over longer distances and at higher bandwidths, that are data rates, than other types of cable. The order of bandwidth of these cables are as high as 100 GHz and more.
 
 ---

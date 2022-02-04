@@ -109,33 +109,6 @@ int main(){
 }
 ```
 
-**<u>Compilation</u>**
-
-Distribution : Debian Linux
-
-OS (Operating System) : Ubuntu \[WSL2\]
-
-File Name : ` `
-
-Compiled File's Folder :  `./Comp_Exec`
-
-```sh
-gcc -o ./Comp_Exec/ 
-```
-
-**<u>Input</u>**
-
-```sh
-```
-
-**<u>Output</u>**
-
-```sh
-```
-
-**<u>Terminal view</u>**
-
-![Terminal Commands View](../../../assets/images/ppl_lab/)
 
 ---
 
@@ -168,44 +141,6 @@ Step-6 : Stop
 
 ```
 
-**<u>Flowchart</u>**
-
-Defining Variables
-
-
-```mermaid
-graph TB
-start(["Start"])-->cawl["Clear All Working Location(CAWL)"]
-cawl-->dec[" "]
-dec-->in1[/" "/]
-in1-->proc[" "]
-proc-->out[/" "/]
-out-->stop(["Stop"])
-```
-
-**<u>Program</u>**
-
-**<u>Compilation</u>**
-
-Distribution : Debian Linux
-
-OS (Operating System) : Ubuntu [WSL2]
-
-File Name :
-
-Compiled File's Folder : `./Comp_Exec`
-
-```sh
-gcc -o ./Comp_Exec/ 
-```
-
-**<u>Input</u>**
-
-**<u>Output</u>**
-
-**<u>Terminal view</u>**
-
-![Terminal Commands View](../../../assets/images/ppl_lab/)
 
 ---
 
@@ -235,44 +170,6 @@ Step-6 : Stop
 
 ```
 
-**<u>Flowchart</u>**
-
-Defining Variables
-
-
-```mermaid
-graph TB
-start(["Start"])-->cawl["Clear All Working Location(CAWL)"]
-cawl-->dec[" "]
-dec-->in1[/" "/]
-in1-->proc[" "]
-proc-->out[/" "/]
-out-->stop(["Stop"])
-```
-
-**<u>Program</u>**
-
-**<u>Compilation</u>**
-
-Distribution : Debian Linux
-
-OS (Operating System) : Ubuntu [WSL2]
-
-File Name :
-
-Compiled File's Folder : `./Comp_Exec`
-
-```sh
-gcc -o ./Comp_Exec/ 
-```
-
-**<u>Input</u>**
-
-**<u>Output</u>**
-
-**<u>Terminal view</u>**
-
-![Terminal Commands View](../../../assets/images/ppl_lab/)
 
 ---
 
@@ -305,20 +202,6 @@ Step-6 : Stop
 
 ```
 
-**<u>Flowchart</u>**
-
-Defining Variables
-
-
-```mermaid
-graph TB
-start(["Start"])-->cawl["Clear All Working Location(CAWL)"]
-cawl-->dec[" "]
-dec-->in1[/" "/]
-in1-->proc[" "]
-proc-->out[/" "/]
-out-->stop(["Stop"])
-```
 
 **<u>Program</u>**
 
@@ -338,28 +221,6 @@ int main(){
     return 0;
 }
 ```
-
-**<u>Compilation</u>**
-
-Distribution : Debian Linux
-
-OS (Operating System) : Ubuntu [WSL2]
-
-File Name :
-
-Compiled File's Folder : `./Comp_Exec`
-
-```sh
-gcc -o ./Comp_Exec/ 
-```
-
-**<u>Input</u>**
-
-**<u>Output</u>**
-
-**<u>Terminal view</u>**
-
-![Terminal Commands View](../../../assets/images/ppl_lab/)
 
 ---
 

@@ -1,6 +1,8 @@
 {
-  "baseFontSize": 19,
+  "baseFontSize": 18,
   "cssTheme": "Obsidian Nord",
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
 }

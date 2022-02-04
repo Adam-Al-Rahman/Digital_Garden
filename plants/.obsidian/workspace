@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1022f1fd75904cfc",
+        "id": "33b04e8cc025c7cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
-            "mode": "source",
-            "source": true
+            "file": "notes/dsa-lab/experiments/experiment-1/lab-activities/exp-la-1-1.md",
+            "mode": "source"
           }
         }
       }
@@ -53,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330,
+    "width": 231,
     "collapsed": true
   },
   "right": {
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/PPL_Lab/Experiments/Experiment-2.md",
+                "file": "notes/dsa-lab/experiments/experiment-1/lab-activities/exp-la-1-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +95,17 @@
     "width": 528,
     "collapsed": true
   },
-  "active": "1022f1fd75904cfc",
+  "active": "33b04e8cc025c7cd",
   "lastOpenFiles": [
-    "notes/PPL_Lab/Experiments/Experiment-2.md",
-    "notes/LHTL/Activities/picture_perception_test.md",
-    "notes/PPL_Lab/Experiments/Experiment-3.md",
-    "notes/PPL_Lab/Experiments/Experiment-4.md",
-    "notes/PPL_Lab/Experiments/Experiment-1.md",
-    "notes/LivCon/MFF/Beautiful_Mind.md",
-    "notes/LivCon/E-Journal/E-Journal.md",
-    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
-    "notes/LivCon/Coursera/week3/Planning_a_great_presentation.md",
-    "notes/LHTL/LHTLInfo.md"
+    "notes/dsa-lab/experiments/experiment-1/lab-activities/exp-la-1-1.md",
+    "random/william-shakespeare.md",
+    "notes/PPL_Lab/Experiments/Experiment_5/Experiment_LA_5/Experiment_5_1.md",
+    "random/Code/start.md",
+    "random/c++.md",
+    "Pasted image 20211221143625.png",
+    "random/Untitled.md",
+    "random/steve-harvey.md",
+    "Physics/Assignments/assignment_1.md",
+    "ayesha-shaheen.md"
   ]
 }

@@ -171,8 +171,11 @@ Step-1: Start
 Step-2: Declare variable number, even, odd
 Step-3: Read number
 Step-4:
-Step-5: 
-Step-6: Stop
+	- if number/2 gives reminder is zero
+		- Diplay number even
+	- if number/2 gives reminder is one
+		- Diplay number odd
+Step-5: Stop
 ```
 
 **<u>Flowchart</u>**
@@ -180,6 +183,17 @@ Step-6: Stop
 Defining Variables
 
 - number: number variable.
+
+
+```mermaid
+graph TB
+
+start(("Start"))-->dec["Declare varibale number"]
+dec-->read[/"Read variable number"/]-->check{"if number%2==0?"}---|Yes|even[/"Entered number is even "/]
+check---|No|odd[/"Entered number is odd"/]---connector((" "))
+even---connector-->stop(("Stop"))
+
+```
 
 
 **<u>Program</u>**
@@ -206,20 +220,42 @@ int main(){
 
 <h4 style="border: 3px; border-color: #6f6fc8; border-style: dashed; padding:10px;">3. Find the biggest of three numbers.</h4>
 
-**<u>Aim</u>**: Find the biggest of three number.
+**<u>Aim</u>**: Find the biggest of three numbers.
 
 **<u>Algorithm</u>**
 
 ```algo
 Step-1: Start
-Step-2: Declare
-Step-3:
+Step-2: Declare variable number_1, number_2 and number_3
+Step-3: Read number_1, number_2 and number_3
 Step-4:
-Step-5:
-Step-6: Stop
+
+	- IF number_1 > number_2 and number_1 > number_3
+		- THEN display "The biggest number is number_1"
+	- ELSE-IF number_2 > number_1 and number_2 > number_3
+		- THEN dispaly "The biggest number is number_2"
+	- ELSE-IF number_3 > number_1 and number_3 > number_1
+		- THEN display "The biggest number is number_3"
+
+Step-5: Stop
 ```
 
 **<u>Flowchart</u>**
+
+- Defining Variable
+	- number_1: First number variable.
+	- number_2: Second number variable.
+	- number_3: Third number variable.
+
+```mermaid
+graph TB
+
+start(("Start"))-->dec["Declare variable number_1, number_2 and number_3"]
+dec-->read[/"Read number_1, number_2 and number_3"/]
+read-->if{"if number_1>number_2 <br/>and number_1>number_3?"}-->|"YES"|print[/"Print 'The biggest number is number_1'"/]
+if-->|NO|elseif{"elseif number_2 > number_1 <br/> and number_2 > number_3?"}
+
+```
 
 **<u>Program</u>**
 
@@ -270,10 +306,7 @@ Step-6: Stop
 ```
 
 
-*z
-
 *<u>Flowchart</u>**
-
 
 **<u>Program</u>**
 
