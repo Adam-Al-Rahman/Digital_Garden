@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+            "file": "random/Project/Essay_On_Learning_New_Skill.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+                "file": "random/Project/Essay_On_Learning_New_Skill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,8 @@
   },
   "active": "d6ede20603ab9a23",
   "lastOpenFiles": [
-    "notes/LHTL/New Skill/Project/Essay_On_Learning_New_Skill.md",
+    "random/Project/Essay_On_Learning_New_Skill.md",
+    "notes/LHTL/New Skill/Machine Learning.md",
     "notes/os/activity/scheduling_algorithms.md",
     "notes/dsa-lab/experiments/experiment-1/lab-activities/exp-la-1-1.md",
     "notes/dsa-lab/experiments/experiment-1/lab-activities/exp-la-1-2.md",
@@ -104,7 +105,6 @@
     "hackathon-6.md",
     "random/c++.md",
     "material.md",
-    "notes/PPL_Lab/Experiments/Experiment-1.md",
-    "notes/PPL_Lab/Experiments/Experiment_5/Experiment_LA_5/Experiment_5_1.md"
+    "notes/PPL_Lab/Experiments/Experiment-1.md"
   ]
 }
