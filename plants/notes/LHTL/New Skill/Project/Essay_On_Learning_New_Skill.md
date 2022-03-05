@@ -176,10 +176,10 @@ Machine learning is a vast topics to cover, as I've only scratch the surface of 
 	
 ## Tools used while learning
 
-- Vscode(Visual Studio Code): As editor.
-- Jupyter Notebook : For running machine learning | python code.
+- Vscode (Visual Studio Code): As editor.
+- Jupyter Notebook: For running machine learning | python code.
 - Anaconda: A large group of python's libraries for Data Science.
-- Conda : Anaconda's package manager.
-- Python : As programming language.
-- Pip : Python's package manager.
+- Conda: Anaconda's package manager.
+- Python: As programming language.
+- Pip: Python's package manager.
 - Vim binding: keyboard commands that do specific things in the editor.
