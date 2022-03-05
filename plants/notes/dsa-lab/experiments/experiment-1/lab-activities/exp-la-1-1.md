@@ -13,14 +13,24 @@
 
 **<u>Theory</u>** :
 
+- Variable Array
+- Recursion
+
 **<u>Algorithm</u>**
 
 ```algo
 Step-1 : Start
-Step-2 : Declaring varialbes 
-Step-3 : 
+Step-2 : Declaring varialbes array_size and array
+Step-3 : Read array_size and array
 Step-4 :
-Step-5 : 
+	- Declare a function `AddArrayElement`
+	- Give int array[] and int array_size as parameter to AddArrayElement
+	- In AddArrayElement
+		IF arrya_size is equal to zero
+			RETURN zero
+		RETURN array[array_size-1]+AddArrayElement(array,array_size-1 )
+	
+Step-5 : Display function RETURN
 Step-6 : Stop
 ```
 
@@ -57,21 +67,3 @@ int AddArrayElement(int array[], int array_size){
     return (array[array_size-1]+AddArrayElement(array, array_size-1));
 }
 ```
-
-
-**<u>Input</u>**
-
-```sh
-```
-
-**<u>Output</u>**
-
-```sh
-```
-
-**<u>Terminal view</u>**
-
-![Terminal Commands View](../../../assets/images/ppl_lab/)
-
----
-

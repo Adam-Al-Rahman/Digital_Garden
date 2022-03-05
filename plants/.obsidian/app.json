@@ -25,7 +25,8 @@
     "directionality",
     "polymorphism",
     "Namespace",
-    "Stratford"
+    "Stratford",
+    "Gantt"
   ],
   "showLineNumber": true,
   "foldIndent": true,

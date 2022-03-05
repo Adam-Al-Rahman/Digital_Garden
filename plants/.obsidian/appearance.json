@@ -1,8 +1,10 @@
 {
   "baseFontSize": 18,
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Dracula for Obsidian",
   "theme": "obsidian",
-  "translucency": false,
+  "translucency": true,
   "baseFontSizeAction": true,
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "fonts"
+  ]
 }
